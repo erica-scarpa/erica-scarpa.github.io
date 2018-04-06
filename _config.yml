@@ -1,3 +1,5 @@
 title: Erica Scarpa
 description: Personal page
 remote_theme: mmistakes / minimal-mistakes
+
+theme: jekyll-theme-cayman
