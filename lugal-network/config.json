@@ -8,14 +8,14 @@
     "text": "Erica Scarpa"
   },
   "text": {
-    "more": "A description",
-    "intro": "Chronological distribution of the lugals according to the texts",
-    "title": "Chronological Network of the Lugal"
+    "more": "a",
+    "intro": "a",
+    "title": "Lugal Network"
   },
   "legend": {
-    "edgeLabel": "Occurrence of PN in the document",
+    "edgeLabel": "Occurrence",
     "colorLabel": "Modularity class",
-    "nodeLabel": "The mame of the lugal or a document"
+    "nodeLabel": "Lugal / Texts"
   },
   "features": {
     "search": true,
@@ -23,25 +23,25 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
+    "groupByEdgeDirection": false,
     "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "defaultLabelColor": "#fff",
+      "labelThreshold": 4,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 7,
+      "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
