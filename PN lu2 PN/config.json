@@ -23,7 +23,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 1.5,
-      "minEdgeSize": 1,
+      "maxEdgeSize": 7,
+      "minEdgeSize": 3,
       "minNodeSize": 0.2,
       "maxNodeSize": 7
     },
