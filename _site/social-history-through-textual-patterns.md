@@ -17,7 +17,7 @@ This repository cointains the following digital material:
 * Hypothetical reconstruction of the kinship relationships referred to (Ego-)Dusigu (<a href="https://erica-scarpa.github.io/Figures/Dusigu.svg" target="_blank">link</a>)
 * Genealogical diagram of the Lord Yiqqī's family (<a href="https://erica-scarpa.github.io/Figures/Yiqqi.svg" target="_blank">link</a>)
 * The lugals network (static image) (<a href="https://erica-scarpa.github.io/Figures/lugal-network.svg" target="_blank">link</a>)
-* The keywords cohesio (static image) (<a href="https://erica-scarpa.github.io/Figures/keywords-cohesion.svg" target="_blank">link</a>)
+* The keywords cohesion (static image) (<a href="https://erica-scarpa.github.io/Figures/keywords-cohesion.svg" target="_blank">link</a>)
 	
 
 
