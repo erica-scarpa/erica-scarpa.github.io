@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Livello_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1252.437px"
+	 height="934px" viewBox="-41.378 0 1252.437 934" enable-background="new -41.378 0 1252.437 934" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="1205.657" height="826.749" bottomLeftOrigin="true" x="-172.055" y="-138.934"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="edges">
+	<path fill="none" stroke="#FB3F09" d="M814.558,216.06l-130.076-65.545"/>
+	<path fill="none" stroke="#FB3F09" d="M816.165,224.806l-57.505,62.919"/>
+	<path fill="none" stroke="#FB3F09" d="M813.786,219.844l-120.722,7.744"/>
+	<path fill="none" stroke="#FA8319" d="M827.298,223.391l213.281,138.992"/>
+	<path fill="none" stroke="#FA8319" d="M825.751,225.102l257.067,318.777"/>
+	<path fill="none" stroke="#FB3F09" d="M815.251,223.8l-140.467,105.76"/>
+	<path fill="none" stroke="#FB3F09" d="M813.934,220.915l-208.903,44.786"/>
+	<path fill="none" stroke="#FB3F09" d="M815.993,214.102L701.549,96.706"/>
+	<path fill="none" stroke="#FA8319" d="M827.454,223.141l333.159,198.573"/>
+	<path fill="none" stroke="#FA8319" d="M825.403,225.367l175.045,245.634"/>
+	<path fill="none" stroke="#FB3F09" d="M681.803,149.165l130.076,65.545"/>
+	<path fill="none" stroke="#FB3F09" d="M676.589,152.663l5.088,65.051"/>
+	<path fill="none" stroke="#FB3F09" d="M677.985,140.176l12.663-40.849"/>
+	<path fill="none" stroke="#FB3F09" d="M672.494,151.576l-72.503,106.638"/>
+	<path fill="none" stroke="#FAC729" d="M1129.814,380.476l-35.631,55"/>
+	<path fill="none" stroke="#FAC729" d="M1127.552,375.848l-64.005-5.546"/>
+	<path fill="none" stroke="#FAC729" d="M1135.549,380.267l28.471,37.641"/>
+	<path fill="none" stroke="#FB3F09" d="M756.637,289.939l57.505-62.919"/>
+	<path fill="none" stroke="#FB3F09" d="M747.53,296.715l-71.706,34.551"/>
+	<path fill="none" stroke="#FB3F09" d="M690.069,227.78l120.722-7.744"/>
+	<path fill="none" stroke="#E6255F" d="M686.14,234.918l104.729,191.568"/>
+	<path fill="none" stroke="#E6255F" d="M682.007,235.832l-18.895,288.523"/>
+	<path fill="none" stroke="#E6255F" d="M681.637,235.798l-25.468,221.601"/>
+	<path fill="none" stroke="#E6255F" d="M683.582,235.77l46.831,325.39"/>
+	<path fill="none" stroke="#FB3F09" d="M675.581,231.363l-71.339,31.927"/>
+	<path fill="none" stroke="#F9223F" d="M676.343,232.687l-314.32,225.675"/>
+	<path fill="none" stroke="#FB3F09" d="M683.12,220.708l9.881-120.925"/>
+	<path fill="none" stroke="#F80675" d="M40.895,503.575l54.509,4.18"/>
+	<path fill="none" stroke="#F80675" d="M34.176,498.502l-7.98-21.598"/>
+	<path fill="none" stroke="#E6696F" d="M860.731,461.379l-54.428-21.306"/>
+	<path fill="none" stroke="#E6696F" d="M861.234,466.915L661.638,590.495"/>
+	<path fill="none" stroke="#E6696F" d="M866.85,469.848l9.432,175.741"/>
+	<path fill="none" stroke="#FAC729" d="M872.049,460.813l167.873-85.889"/>
+	<path fill="none" stroke="#FAC729" d="M872.711,463.143l202.536-16.361"/>
+	<path fill="none" stroke="#FAC729" d="M872.282,465.963l206.664,83.147"/>
+	<path fill="none" stroke="#F9664F" d="M860.402,462.544l-294.591-52.952"/>
+	<path fill="none" stroke="#FB3F09" d="M667.691,328.574l13.266-89.839"/>
+	<path fill="none" stroke="#D20BB6" d="M734.522,564.693l56.869-118.742"/>
+	<path fill="none" stroke="#D20BB6" d="M727.941,565.322l-67.181-90.757"/>
+	<path fill="none" stroke="#D20BB6" d="M726.102,567.452l-55.533-29.68"/>
+	<path fill="none" stroke="#E50895" d="M725.576,568.771l-361.628-99.638"/>
+	<path fill="none" stroke="#D20BB6" d="M737.611,573.074l67.321,29.901"/>
+	<path fill="none" stroke="#D20BB6" d="M725.65,572.424l-63.051,20.157"/>
+	<path fill="none" stroke="#D20BB6" d="M734.473,576.276l45.519,97.155"/>
+	<path fill="none" stroke="#FAC729" d="M973.154,568.416l30.045-73.915"/>
+	<path fill="none" stroke="#FA8319" d="M964.706,568.771L855.669,354.149"/>
+	<path fill="none" stroke="#FAC729" d="M979.312,575.885l98.944-19.466"/>
+	<path fill="none" stroke="#FAC729" d="M973.803,586.996l71.812,146.443"/>
+	<path fill="none" stroke="#FAC729" d="M968.394,587.994L948.391,807.26"/>
+	<path fill="none" stroke="#FAC729" d="M965.765,587.396l-70.359,188.969"/>
+	<path fill="none" stroke="#FAC729" d="M977.519,571.811l183.81-135.375"/>
+	<path fill="none" stroke="#F80675" d="M110.846,505.321l42.057-22.87"/>
+	<path fill="none" stroke="#F80675" d="M103.824,501.961l-8.193-44.975"/>
+	<path fill="none" stroke="#7C809D" d="M108.675,514.029l62.801,94.979"/>
+	<path fill="none" stroke="#F80675" d="M111.555,507.359l227.657-39.431"/>
+	<path fill="none" stroke="#E6255F" d="M646.787,393.484l16.54-48.151"/>
+	<path fill="none" stroke="#D20BB6" d="M645.877,403.162l7.836,54.273"/>
+	<path fill="none" stroke="#F80675" d="M394.617,410.186l-35.149,45.532"/>
+	<path fill="none" stroke="#F80675" d="M342.168,467.416l-227.657,39.431"/>
+	<path fill="none" stroke="#F80675" d="M342.026,465.834l-309.753,2.278"/>
+	<path fill="none" stroke="#F80675" d="M357.635,458.093l35.149-45.532"/>
+	<path fill="none" stroke="#F80675" d="M342.448,462.935l-101.403-30.935"/>
+	<path fill="none" stroke="#F9223F" d="M359.214,459.628l224.57-183.705"/>
+	<path fill="none" stroke="#00FAC5" d="M235.013,627.762l-50.466-9.984"/>
+	<path fill="none" stroke="#F80675" d="M155.539,481.017l-42.057,22.87"/>
+	<path fill="none" stroke="#F80675" d="M155.358,476.153l-53.417-24.101"/>
+	<path fill="none" stroke="#F80675" d="M165.806,478.043l173.248-11.444"/>
+	<path fill="none" stroke="#00FAC5" d="M449.008,565.121l-16.016,30.341"/>
+	<path fill="none" stroke="#00FAC5" d="M455.741,564.726l47.71,69.331"/>
+	<path fill="none" stroke="#7C809D" d="M447.286,554.918l-86.292-80.5"/>
+	<path fill="none" stroke="#00FAC5" d="M482.209,674.056l20.263-23.158"/>
+	<path fill="none" stroke="#00FAC5" d="M423.693,603.641l-175.598,24.014"/>
+	<path fill="none" stroke="#00FAC5" d="M431.591,598.115l16.016-30.341"/>
+	<path fill="none" stroke="#00FAC5" d="M433.915,605.317l66.024,32.789"/>
+	<path fill="none" stroke="#7D9C67" d="M433.694,600.096l279.652-169.69"/>
+	<path fill="none" stroke="#FAC729" d="M1083.507,437.401l-27.057-56.872"/>
+	<path fill="none" stroke="#FAC729" d="M1096.604,443.934l62.398-12.735"/>
+	<path fill="none" stroke="#FAC729" d="M1079.047,449.655l-58.487,26.728"/>
+	<path fill="none" stroke="#D20BB6" d="M885.962,699.661l-6.776-32.032"/>
+	<path fill="none" stroke="#E6696F" d="M972.696,711.747l-198.229-76.03"/>
+	<path fill="none" stroke="#E6696F" d="M973.012,711.076l-86.428-48.867"/>
+	<path fill="none" stroke="#FAC729" d="M980.263,709.463l103.175-145.019"/>
+	<path fill="none" stroke="#FAC729" d="M975.98,718.342l-25.714,89.27"/>
+	<path fill="none" stroke="#FAC729" d="M982.021,715.357l59.017,23.058"/>
+	<path fill="none" stroke="#D20BB6" d="M764.519,628.481l-28.137-49.816"/>
+	<path fill="none" stroke="#D20BB6" d="M771.884,633.911l94.101,20.444"/>
+	<path fill="none" stroke="#6982BD" d="M762.338,634.732l-140.238,56.896"/>
+	<path fill="none" stroke="#D20BB6" d="M763.352,629.391l-94.22-89.629"/>
+	<path fill="none" stroke="#D20BB6" d="M764.181,628.69L660.418,474.807"/>
+	<path fill="none" stroke="#FAC729" d="M952.111,873.968l-3.814-46.61"/>
+	<path fill="none" stroke="#F80675" d="M95.093,454.034l8.193,44.975"/>
+	<path fill="none" stroke="#F80675" d="M98.739,445.361l40.833-27.625"/>
+	<path fill="none" stroke="#E6696F" d="M717.439,649.763l359.295-198.036"/>
+	<path fill="none" stroke="#D20BB6" d="M707.363,648.372l-47.021-46.333"/>
+	<path fill="none" stroke="#D20BB6" d="M713.37,646.657l16.177-67.039"/>
+	<path fill="none" stroke="#6982BD" d="M705.545,652.513l-185.367-9.13"/>
+	<path fill="none" stroke="#E50895" d="M706.251,649.901l-343.276-178.29"/>
+	<path fill="none" stroke="#D20BB6" d="M717.779,655.167l57.794,22.956"/>
+	<path fill="none" stroke="#D20BB6" d="M661.646,539.539l-6.668,46.601"/>
+	<path fill="none" stroke="#00FAC5" d="M609.174,691.156L459.337,565.474"/>
+	<path fill="none" stroke="#7C809D" d="M609.255,691.062L361.265,474.117"/>
+	<path fill="none" stroke="#00FAC5" d="M608.405,692.327l-89.343-44.69"/>
+	<path fill="none" stroke="#E6696F" d="M1012.245,631.443l-124.406,23.233"/>
+	<path fill="none" stroke="#FAC729" d="M1020.628,626.923l61.34-63.699"/>
+	<path fill="none" stroke="#FAC729" d="M1013.798,626.824l-35.615-39.212"/>
+	<path fill="none" stroke="#D20BB6" d="M659.817,597.137l206.311,56.634"/>
+	<path fill="none" stroke="#D20BB6" d="M657.911,590.673L788.825,444.24"/>
+	<path fill="none" stroke="#D20BB6" d="M653.718,589.045l1.254-112.606"/>
+	<path fill="none" stroke="#6982BD" d="M651.268,601.383l-34.157,85.277"/>
+	<path fill="none" stroke="#6982BD" d="M647.569,597.442L519.655,639.52"/>
+	<path fill="none" stroke="#E6696F" d="M999.185,487.238L719.978,648.159"/>
+	<path fill="none" stroke="#FAC729" d="M1016.202,488.889l64.983,56.564"/>
+	<path fill="none" stroke="#D20BB6" d="M769.714,742.643l98.468-78.948"/>
+	<path fill="none" stroke="#D20BB6" d="M763.303,741.446l-46.731-80.539"/>
+	<path fill="none" stroke="#6982BD" d="M761.07,744.188l-138.772-46.331"/>
+	<path fill="none" stroke="#E6696F" d="M770.581,747.277l111.974,35.363"/>
+	<path fill="none" stroke="#E6255F" d="M851.892,352.16l24.076,293.451"/>
+	<path fill="none" stroke="#FA8319" d="M854.31,351.475l109.037,214.622"/>
+	<path fill="none" stroke="#FB3F09" d="M845.12,343.796l-240.33-72.069"/>
+	<path fill="none" stroke="#FB3F09" d="M845.809,349.077l-117.927,72.454"/>
+	<path fill="none" stroke="#E6696F" d="M1046.136,377.365l-163.48,269.822"/>
+	<path fill="none" stroke="#E6696F" d="M1041.859,371.636L806.698,433.31"/>
+	<path fill="none" stroke="#FAC729" d="M1055.161,377.82l27.057,56.872"/>
+	<path fill="none" stroke="#FAC729" d="M1059.621,373.412l100.473,49.257"/>
+	<path fill="none" stroke="#FAC729" d="M1042.593,373.558L874.72,459.447"/>
+	<path fill="none" stroke="#FAC729" d="M1090.607,544.024l-2.719-85.945"/>
+	<path fill="none" stroke="#FAC729" d="M1088.831,544.242l-35.12-162.781"/>
+	<path fill="none" stroke="#FAC729" d="M1096.303,545.609l68.516-105.888"/>
+	<path fill="none" stroke="#FAC729" d="M1081.199,555.84l-98.944,19.466"/>
+	<path fill="none" stroke="#FAC729" d="M1083.448,547.422l-64.983-56.564"/>
+	<path fill="none" stroke="#FB3F09" d="M748.305,159.556l-58.483,61.066"/>
+	<path fill="none" stroke="#FB3F09" d="M748.489,151.047l-47.36-53.952"/>
+	<path fill="none" stroke="#FB3F09" d="M754.964,160.507l92.002,176.721"/>
+	<path fill="none" stroke="#FB3F09" d="M699.15,94.84l47.36,53.952"/>
+	<path fill="none" stroke="#FB3F09" d="M689.995,95.799L599.11,257.668"/>
+	<path fill="none" stroke="#FB3F09" d="M693.246,96.793l-9.882,120.925"/>
+	<path fill="none" stroke="#FB3F09" d="M691.536,96.462l-12.663,40.849"/>
+	<path fill="none" stroke="#FB3F09" d="M602.097,266.33l208.903-44.786"/>
+	<path fill="none" stroke="#FB3F09" d="M597.641,260.284l90.885-161.869"/>
+	<path fill="none" stroke="#FB3F09" d="M599.896,274.417l59.233,54.38"/>
+	<path fill="none" stroke="#F9223F" d="M586.106,274.024l-224.57,183.705"/>
+	<path fill="none" stroke="#7D9C67" d="M591.182,277.153l-79.346,355.279"/>
+	<path fill="none" stroke="#7D9C67" d="M589.19,276.458L456.198,550.8"/>
+	<path fill="none" stroke="#FA8319" d="M600.22,274.045l358.919,295.427"/>
+	<path fill="none" stroke="#FAC729" d="M948.053,824.368l3.814,46.61"/>
+	<path fill="none" stroke="#7DE077" d="M940.821,814.866L622.211,698.104"/>
+	<path fill="none" stroke="#FAC729" d="M941.32,813.791l-40.788-23.287"/>
+	<path fill="none" stroke="#FAC729" d="M948.119,810.247l20.002-219.266"/>
+	<path fill="none" stroke="#FAC729" d="M895.676,791.389l52.044,80.993"/>
+	<path fill="none" stroke="#E6696F" d="M891.165,778.791l-12.99-110.996"/>
+	<path fill="none" stroke="#FAC729" d="M897.928,789.017l40.788,23.287"/>
+	<path fill="none" stroke="#FAC729" d="M894.36,779.176l70.358-188.969"/>
+	<path fill="none" stroke="#D20BB6" d="M816.885,609.73l51.218,40.117"/>
+	<path fill="none" stroke="#D20BB6" d="M807.673,604.193l-67.321-29.901"/>
+	<path fill="none" stroke="#F80675" d="M225.988,428.111l-70.954-13.558"/>
+	<path fill="none" stroke="#F80675" d="M238.176,431.125l101.403,30.935"/>
+	<path fill="none" stroke="#D20BB6" d="M789.26,679.884l76.841-20.312"/>
+	<path fill="none" stroke="#D20BB6" d="M781.264,676.148l-45.518-97.155"/>
+	<path fill="none" stroke="#FAC729" d="M1161.942,430.6l-62.398,12.735"/>
+	<path fill="none" stroke="#FAC729" d="M1162.788,423.991l-100.473-49.257"/>
+	<path fill="none" stroke="#FAC729" d="M1162.243,431.739l-141.128,46.067"/>
+	<path fill="none" stroke="#FAC729" d="M1163.745,434.657l-183.81,135.375"/>
+	<path fill="none" stroke="#FAC729" d="M1166.449,437.203l-68.516,105.888"/>
+	<path fill="none" stroke="#F9664F" d="M562.858,409.062l294.591,52.952"/>
+	<path fill="none" stroke="#F80675" d="M552.313,408.022l-144.411-2.714"/>
+	<path fill="none" stroke="#F9223F" d="M562.054,405.18l96.094-63.847"/>
+	<path fill="none" stroke="#F80675" d="M552.509,409.554l-188.575,52.788"/>
+	<path fill="none" stroke="#FB3F09" d="M721.932,420.63l28.727-117.894"/>
+	<path fill="none" stroke="#FB3F09" d="M717.796,421.255l-45.925-76.813"/>
+	<path fill="none" stroke="#FA8319" d="M725.334,428.863L958.066,570.98"/>
+</g>
+<g id="arrows">
+	<polyline fill="#FB3F09" points="681.803,149.165 685.157,149.175 683.807,151.854 	"/>
+	<polyline fill="#FB3F09" points="756.637,289.939 757.553,286.713 759.768,288.736 	"/>
+	<polyline fill="#FB3F09" points="690.069,227.78 692.967,226.091 693.159,229.085 	"/>
+	<polyline fill="#FA8319" points="1043.093,364.021 1039.76,363.64 1041.398,361.127 	"/>
+	<polyline fill="#FA8319" points="1084.701,546.215 1081.65,544.821 1083.986,542.938 	"/>
+	<polyline fill="#FB3F09" points="672.388,331.364 673.882,328.361 675.686,330.758 	"/>
+	<polyline fill="#FB3F09" points="602.097,266.33 604.716,264.235 605.345,267.168 	"/>
+	<polyline fill="#FB3F09" points="699.455,94.557 702.623,95.659 700.475,97.753 	"/>
+	<polyline fill="#FA8319" points="1163.189,423.249 1159.844,423.002 1161.38,420.425 	"/>
+	<polyline fill="#FA8319" points="1002.188,473.444 999.226,471.871 1001.669,470.13 	"/>
+	<polyline fill="#FB3F09" points="814.558,216.06 811.204,216.05 812.554,213.371 	"/>
+	<polyline fill="#FB3F09" points="681.911,220.705 680.182,217.831 683.172,217.598 	"/>
+	<polyline fill="#FB3F09" points="691.536,96.462 692.08,99.772 689.215,98.883 	"/>
+	<polyline fill="#FB3F09" points="598.304,260.695 598.751,257.37 601.232,259.057 	"/>
+	<polyline fill="#FAC729" points="1092.552,437.993 1092.924,434.66 1095.442,436.291 	"/>
+	<polyline fill="#FAC729" points="1060.558,370.043 1063.676,368.807 1063.417,371.796 	"/>
+	<polyline fill="#FAC729" points="1165.83,420.301 1162.823,418.813 1165.216,417.004 	"/>
+	<polyline fill="#FB3F09" points="816.165,224.806 815.249,228.032 813.034,226.008 	"/>
+	<polyline fill="#FB3F09" points="673.121,332.568 675.173,329.915 676.475,332.617 	"/>
+	<polyline fill="#FB3F09" points="813.786,219.844 810.888,221.532 810.696,218.539 	"/>
+	<polyline fill="#E6255F" points="792.308,429.119 789.553,427.206 792.185,425.767 	"/>
+	<polyline fill="#E6255F" points="662.915,527.348 661.614,524.256 664.608,524.452 	"/>
+	<polyline fill="#E6255F" points="655.826,460.379 654.678,457.228 657.659,457.57 	"/>
+	<polyline fill="#E6255F" points="730.841,564.13 728.929,561.374 731.899,560.947 	"/>
+	<polyline fill="#FB3F09" points="601.504,264.515 603.629,261.92 604.855,264.658 	"/>
+	<polyline fill="#F9223F" points="359.585,460.112 361.148,457.143 362.897,459.58 	"/>
+	<polyline fill="#FB3F09" points="693.246,96.793 694.496,99.905 691.506,99.661 	"/>
+	<polyline fill="#F80675" points="98.395,507.984 95.289,509.251 95.518,506.259 	"/>
+	<polyline fill="#F80675" points="25.157,474.09 27.604,476.384 24.79,477.424 	"/>
+	<polyline fill="#E6696F" points="803.509,438.979 806.85,438.675 805.756,441.469 	"/>
+	<polyline fill="#E6696F" points="659.087,592.075 660.848,589.22 662.427,591.771 	"/>
+	<polyline fill="#E6696F" points="876.443,648.585 874.784,645.67 877.78,645.509 	"/>
+	<polyline fill="#FAC729" points="1042.593,373.558 1040.605,376.26 1039.239,373.589 	"/>
+	<polyline fill="#FAC729" points="1078.237,446.541 1075.367,448.278 1075.126,445.287 	"/>
+	<polyline fill="#FAC729" points="1081.729,550.229 1078.386,550.501 1079.506,547.718 	"/>
+	<polyline fill="#F9664F" points="562.858,409.062 566.076,408.116 565.545,411.069 	"/>
+	<polyline fill="#FB3F09" points="681.395,235.766 682.44,238.953 679.472,238.515 	"/>
+	<polyline fill="#D20BB6" points="792.687,443.245 792.744,446.599 790.038,445.303 	"/>
+	<polyline fill="#D20BB6" points="658.976,472.154 661.966,473.672 659.555,475.457 	"/>
+	<polyline fill="#D20BB6" points="667.923,536.358 671.276,536.449 669.862,539.095 	"/>
+	<polyline fill="#E50895" points="361.056,468.336 364.346,467.687 363.55,470.579 	"/>
+	<polyline fill="#D20BB6" points="807.673,604.193 804.323,604.346 805.541,601.605 	"/>
+	<polyline fill="#D20BB6" points="659.742,593.495 662.142,591.152 663.056,594.01 	"/>
+	<polyline fill="#D20BB6" points="781.264,676.148 778.633,674.067 781.35,672.795 	"/>
+	<polyline fill="#FAC729" points="1004.328,491.722 1004.588,495.066 1001.809,493.936 	"/>
+	<polyline fill="#FA8319" points="854.31,351.475 857.006,353.47 854.331,354.829 	"/>
+	<polyline fill="#FAC729" points="1081.199,555.84 1078.545,557.891 1077.966,554.947 	"/>
+	<polyline fill="#FAC729" points="1046.937,736.132 1044.269,734.099 1046.962,732.778 	"/>
+	<polyline fill="#FAC729" points="948.119,810.247 946.898,807.124 949.885,807.396 	"/>
+	<polyline fill="#FAC729" points="894.36,779.176 894.001,775.841 896.812,776.888 	"/>
+	<polyline fill="#FAC729" points="1163.745,434.657 1162.219,437.644 1160.44,435.229 	"/>
+	<polyline fill="#F80675" points="155.539,481.017 153.62,483.768 152.187,481.133 	"/>
+	<polyline fill="#F80675" points="95.093,454.034 97.107,456.717 94.155,457.255 	"/>
+	<polyline fill="#7C809D" points="173.131,611.511 170.225,609.836 172.727,608.181 	"/>
+	<polyline fill="#F80675" points="342.168,467.416 339.468,469.406 338.956,466.45 	"/>
+	<polyline fill="#E6255F" points="664.302,342.497 664.746,345.821 661.909,344.847 	"/>
+	<polyline fill="#D20BB6" points="654.142,460.404 652.228,457.649 655.198,457.22 	"/>
+	<polyline fill="#F80675" points="357.635,458.093 358.281,454.802 360.656,456.635 	"/>
+	<polyline fill="#F80675" points="111.555,507.359 114.255,505.369 114.767,508.325 	"/>
+	<polyline fill="#F80675" points="29.274,468.134 32.263,466.612 32.284,469.612 	"/>
+	<polyline fill="#F80675" points="394.617,410.186 393.972,413.477 391.597,411.644 	"/>
+	<polyline fill="#F80675" points="238.176,431.125 241.483,430.566 240.607,433.435 	"/>
+	<polyline fill="#F9223F" points="586.106,274.024 584.734,277.084 582.834,274.762 	"/>
+	<polyline fill="#00FAC5" points="181.603,617.195 184.838,616.306 184.255,619.249 	"/>
+	<polyline fill="#F80675" points="110.846,505.321 112.765,502.57 114.198,505.205 	"/>
+	<polyline fill="#F80675" points="99.206,450.818 102.558,450.685 101.324,453.419 	"/>
+	<polyline fill="#F80675" points="342.047,466.401 339.153,468.095 338.955,465.102 	"/>
+	<polyline fill="#00FAC5" points="431.591,598.115 431.665,594.762 434.318,596.162 	"/>
+	<polyline fill="#00FAC5" points="505.152,636.528 502.215,634.907 504.687,633.207 	"/>
+	<polyline fill="#7C809D" points="358.8,472.371 362.017,473.321 359.97,475.515 	"/>
+	<polyline fill="#00FAC5" points="504.448,648.64 503.601,651.886 501.343,649.91 	"/>
+	<polyline fill="#00FAC5" points="245.123,628.062 247.893,626.169 248.299,629.142 	"/>
+	<polyline fill="#00FAC5" points="449.008,565.121 448.934,568.474 446.281,567.074 	"/>
+	<polyline fill="#00FAC5" points="502.626,639.44 499.272,639.449 500.606,636.763 	"/>
+	<polyline fill="#7D9C67" points="715.911,428.85 714.125,431.689 712.568,429.124 	"/>
+	<polyline fill="#FAC729" points="1055.161,377.82 1057.805,379.884 1055.096,381.173 	"/>
+	<polyline fill="#FAC729" points="1161.942,430.6 1159.303,432.669 1158.703,429.73 	"/>
+	<polyline fill="#FAC729" points="1017.832,477.631 1019.937,475.019 1021.184,477.748 	"/>
+	<polyline fill="#D20BB6" points="878.566,664.694 880.654,667.319 877.719,667.939 	"/>
+	<polyline fill="#E6696F" points="771.666,634.642 775.004,634.316 773.93,637.117 	"/>
+	<polyline fill="#E6696F" points="883.972,660.732 887.322,660.903 885.846,663.515 	"/>
+	<polyline fill="#FAC729" points="1085.177,562 1084.66,565.314 1082.216,563.575 	"/>
+	<polyline fill="#FAC729" points="949.437,810.495 948.826,807.197 951.708,808.027 	"/>
+	<polyline fill="#FAC729" points="1043.833,739.506 1040.492,739.812 1041.584,737.017 	"/>
+	<polyline fill="#D20BB6" points="734.906,576.053 737.687,577.927 735.075,579.403 	"/>
+	<polyline fill="#D20BB6" points="868.916,654.992 865.666,655.821 866.303,652.889 	"/>
+	<polyline fill="#6982BD" points="619.321,692.755 621.537,690.237 622.665,693.017 	"/>
+	<polyline fill="#D20BB6" points="666.958,537.695 670.165,538.675 668.098,540.849 	"/>
+	<polyline fill="#D20BB6" points="658.741,472.32 661.662,473.969 659.174,475.646 	"/>
+	<polyline fill="#FAC729" points="948.053,824.368 949.793,827.236 946.803,827.481 	"/>
+	<polyline fill="#F80675" points="103.824,501.961 101.811,499.278 104.762,498.741 	"/>
+	<polyline fill="#F80675" points="142.056,416.055 140.412,418.979 138.731,416.494 	"/>
+	<polyline fill="#E6696F" points="1079.361,450.278 1077.458,453.04 1076.01,450.413 	"/>
+	<polyline fill="#D20BB6" points="658.205,599.934 661.394,600.971 659.289,603.108 	"/>
+	<polyline fill="#D20BB6" points="730.251,576.703 731.005,579.971 728.089,579.267 	"/>
+	<polyline fill="#6982BD" points="517.181,643.236 520.251,641.885 520.104,644.882 	"/>
+	<polyline fill="#E50895" points="360.313,470.228 363.667,470.28 362.284,472.942 	"/>
+	<polyline fill="#D20BB6" points="778.361,679.231 775.019,679.517 776.127,676.729 	"/>
+	<polyline fill="#D20BB6" points="654.553,589.109 653.493,585.927 656.463,586.352 	"/>
+	<polyline fill="#00FAC5" points="457.039,563.546 460.301,564.325 458.373,566.624 	"/>
+	<polyline fill="#7C809D" points="359.007,472.142 362.253,472.988 360.278,475.246 	"/>
+	<polyline fill="#00FAC5" points="516.379,646.295 519.733,646.296 518.391,648.979 	"/>
+	<polyline fill="#E6696F" points="884.889,655.226 887.563,653.201 888.114,656.15 	"/>
+	<polyline fill="#FAC729" points="1084.048,561.064 1083.048,564.265 1080.887,562.184 	"/>
+	<polyline fill="#FAC729" points="976.166,585.39 979.294,586.603 977.073,588.62 	"/>
+	<polyline fill="#D20BB6" points="869.021,654.565 865.731,655.217 866.525,652.324 	"/>
+	<polyline fill="#D20BB6" points="790.825,442.003 789.944,445.24 787.707,443.24 	"/>
+	<polyline fill="#D20BB6" points="655.005,473.439 656.472,476.455 653.472,476.422 	"/>
+	<polyline fill="#6982BD" points="615.995,689.444 615.718,686.102 618.503,687.217 	"/>
+	<polyline fill="#6982BD" points="516.806,640.457 519.187,638.095 520.124,640.944 	"/>
+	<polyline fill="#E6696F" points="717.379,649.657 719.229,646.859 720.727,649.459 	"/>
+	<polyline fill="#FAC729" points="1083.448,547.422 1080.2,546.584 1082.17,544.321 	"/>
+	<polyline fill="#D20BB6" points="870.522,661.819 869.119,664.866 867.243,662.525 	"/>
+	<polyline fill="#D20BB6" points="715.066,658.313 717.869,660.155 715.274,661.661 	"/>
+	<polyline fill="#6982BD" points="619.452,696.907 622.773,696.434 621.823,699.28 	"/>
+	<polyline fill="#E6696F" points="885.415,783.544 882.103,784.07 883.006,781.21 	"/>
+	<polyline fill="#E6255F" points="876.213,648.601 874.473,645.733 877.463,645.488 	"/>
+	<polyline fill="#FA8319" points="964.706,568.771 962.01,566.776 964.684,565.417 	"/>
+	<polyline fill="#FB3F09" points="601.916,270.866 605.22,270.291 604.358,273.164 	"/>
+	<polyline fill="#FB3F09" points="725.326,423.102 727.097,420.253 728.667,422.809 	"/>
+	<path fill="#FB3F09" d="M918.553,267.102"/>
+	<polyline fill="#E6696F" points="881.102,649.753 881.373,646.41 883.939,647.964 	"/>
+	<polyline fill="#E6696F" points="803.796,434.071 806.317,431.859 807.078,434.761 	"/>
+	<polyline fill="#FAC729" points="1083.507,437.401 1080.864,435.336 1083.573,434.048 	"/>
+	<polyline fill="#FAC729" points="1162.788,423.991 1159.434,424.017 1160.754,421.323 	"/>
+	<polyline fill="#FAC729" points="872.049,460.813 874.036,458.112 875.403,460.782 	"/>
+	<polyline fill="#FAC729" points="1087.793,455.081 1089.387,458.032 1086.389,458.127 	"/>
+	<polyline fill="#FAC729" points="1053.079,378.529 1055.178,381.145 1052.245,381.778 	"/>
+	<polyline fill="#FAC729" points="1166.449,437.203 1166.078,440.536 1163.56,438.906 	"/>
+	<polyline fill="#FAC729" points="979.312,575.885 981.966,573.834 982.545,576.778 	"/>
+	<polyline fill="#FAC729" points="1016.202,488.889 1019.45,489.727 1017.48,491.99 	"/>
+	<polyline fill="#FB3F09" points="687.747,222.789 688.739,219.585 690.905,221.659 	"/>
+	<polyline fill="#FB3F09" points="699.15,94.84 702.256,96.105 700.001,98.084 	"/>
+	<polyline fill="#FB3F09" points="848.351,339.889 845.635,337.921 848.296,336.536 	"/>
+	<polyline fill="#FB3F09" points="748.489,151.047 745.383,149.782 747.637,147.803 	"/>
+	<polyline fill="#FB3F09" points="597.641,260.284 597.802,256.934 600.418,258.403 	"/>
+	<polyline fill="#FB3F09" points="683.12,220.708 681.869,217.595 684.859,217.84 	"/>
+	<polyline fill="#FB3F09" points="677.985,140.176 677.44,136.867 680.306,137.755 	"/>
+	<polyline fill="#FB3F09" points="813.934,220.915 811.315,223.011 810.686,220.077 	"/>
+	<polyline fill="#FB3F09" points="689.995,95.799 689.834,99.15 687.218,97.681 	"/>
+	<polyline fill="#FB3F09" points="661.339,330.826 658.115,329.902 660.144,327.692 	"/>
+	<polyline fill="#F9223F" points="359.214,459.628 360.587,456.567 362.486,458.889 	"/>
+	<polyline fill="#7D9C67" points="511.182,635.359 510.372,632.104 513.3,632.758 	"/>
+	<polyline fill="#7D9C67" points="454.89,553.5 454.849,550.146 457.548,551.454 	"/>
+	<polyline fill="#FA8319" points="961.455,571.379 958.186,570.63 960.092,568.314 	"/>
+	<polyline fill="#FAC729" points="952.111,873.968 950.372,871.101 953.362,870.856 	"/>
+	<polyline fill="#7DE077" points="619.394,697.071 622.727,696.695 621.695,699.512 	"/>
+	<polyline fill="#FAC729" points="897.928,789.017 901.277,789.202 899.789,791.807 	"/>
+	<polyline fill="#FAC729" points="968.394,587.994 969.615,591.118 966.627,590.845 	"/>
+	<polyline fill="#FAC729" points="949.342,874.906 946.458,873.193 948.982,871.571 	"/>
+	<polyline fill="#E6696F" points="877.826,664.815 879.665,667.62 876.685,667.969 	"/>
+	<polyline fill="#FAC729" points="941.32,813.791 937.971,813.606 939.459,811.001 	"/>
+	<polyline fill="#FAC729" points="965.765,587.396 966.124,590.731 963.313,589.684 	"/>
+	<polyline fill="#D20BB6" points="870.464,651.697 867.178,651.028 869.027,648.667 	"/>
+	<polyline fill="#D20BB6" points="737.611,573.074 740.961,572.921 739.744,575.663 	"/>
+	<polyline fill="#F80675" points="152.087,413.99 155.316,413.08 154.753,416.027 	"/>
+	<polyline fill="#F80675" points="342.448,462.935 339.141,463.495 340.016,460.625 	"/>
+	<polyline fill="#D20BB6" points="869.001,658.804 866.484,661.021 865.718,658.121 	"/>
+	<polyline fill="#D20BB6" points="734.473,576.276 737.104,578.356 734.387,579.629 	"/>
+	<polyline fill="#FAC729" points="1096.604,443.934 1099.244,441.865 1099.844,444.804 	"/>
+	<polyline fill="#FAC729" points="1059.621,373.412 1062.975,373.386 1061.654,376.08 	"/>
+	<polyline fill="#FAC729" points="1018.264,478.737 1020.65,476.38 1021.581,479.232 	"/>
+	<polyline fill="#FAC729" points="977.519,571.811 979.046,568.825 980.825,571.24 	"/>
+	<polyline fill="#FAC729" points="1096.303,545.609 1096.673,542.275 1099.192,543.905 	"/>
+	<polyline fill="#F9664F" points="860.402,462.544 857.184,463.49 857.714,460.537 	"/>
+	<polyline fill="#F80675" points="404.903,405.252 407.93,403.808 407.874,406.808 	"/>
+	<polyline fill="#F9223F" points="660.646,339.673 658.978,342.583 657.318,340.084 	"/>
+	<polyline fill="#F80675" points="361.045,463.151 363.53,460.897 364.339,463.786 	"/>
+	<polyline fill="#FB3F09" points="751.369,299.821 752.116,303.091 749.201,302.381 	"/>
+	<polyline fill="#FB3F09" points="670.332,341.867 673.159,343.672 670.584,345.212 	"/>
+	<polyline fill="#FA8319" points="960.627,572.543 957.285,572.26 958.848,569.7 	"/>
+</g>
+<g id="nodes">
+	<circle fill="#FB3F09" cx="821.131" cy="219.372" r="7.361"/>
+	<circle fill="#FB3F09" cx="676.09" cy="146.286" r="6.397"/>
+	<circle fill="#FB3F09" cx="752.737" cy="294.206" r="5.78"/>
+	<circle fill="#FB3F09" cx="682.502" cy="228.265" r="7.583"/>
+	<circle fill="#FAC729" cx="1051.071" cy="369.221" r="9.523"/>
+	<circle fill="#FAC729" cx="1090.921" cy="553.927" r="9.908"/>
+	<circle fill="#FB3F09" cx="666.639" cy="335.692" r="7.195"/>
+	<circle fill="#FB3F09" cx="593.172" cy="268.244" r="9.128"/>
+	<circle fill="#FB3F09" cx="693.894" cy="88.853" r="7.966"/>
+	<circle fill="#FAC729" cx="1172.057" cy="428.535" r="10.324"/>
+	<circle fill="#FAC729" cx="1008.282" cy="481.995" r="10.5"/>
+	<circle fill="#FAC729" cx="1132.533" cy="376.28" r="5"/>
+	<circle fill="#FAC729" cx="1087.499" cy="445.793" r="9.293"/>
+	<circle fill="#D20BB6" cx="796.116" cy="436.085" r="7.939"/>
+	<circle fill="#D20BB6" cx="662.514" cy="533.468" r="6.133"/>
+	<circle fill="#D20BB6" cx="655.078" cy="466.888" r="6.551"/>
+	<circle fill="#D20BB6" cx="731.754" cy="570.473" r="6.408"/>
+	<circle fill="#F80675" cx="351.715" cy="465.762" r="9.689"/>
+	<circle fill="#F80675" cx="35.909" cy="503.192" r="5"/>
+	<circle fill="#F80675" cx="105.014" cy="508.492" r="6.639"/>
+	<circle fill="#F80675" cx="22.974" cy="468.18" r="6.3"/>
+	<circle fill="#FAC729" cx="866.517" cy="463.644" r="6.214"/>
+	<circle fill="#D20BB6" cx="653.647" cy="595.443" r="6.398"/>
+	<circle fill="#D20BB6" cx="876.879" cy="656.722" r="8.148"/>
+	<circle fill="#F80675" cx="557.627" cy="408.122" r="5.315"/>
+	<circle fill="#D20BB6" cx="812.622" cy="606.391" r="5.415"/>
+	<circle fill="#D20BB6" cx="783.703" cy="681.353" r="5.748"/>
+	<circle fill="#FAC729" cx="969.319" cy="577.851" r="10.185"/>
+	<circle fill="#FB3F09" cx="851.359" cy="345.667" r="6.514"/>
+	<circle fill="#FAC729" cx="1049.719" cy="741.806" r="6.32"/>
+	<circle fill="#FAC729" cx="947.475" cy="817.305" r="7.087"/>
+	<circle fill="#FAC729" cx="891.964" cy="785.612" r="6.867"/>
+	<circle fill="#F80675" cx="160.346" cy="478.403" r="5.472"/>
+	<circle fill="#F80675" cx="94.086" cy="448.508" r="5.617"/>
+	<circle fill="#00FAC5" cx="176.18" cy="616.122" r="5.528"/>
+	<circle fill="#D20BB6" cx="645.163" cy="398.213" r="5"/>
+	<circle fill="#F80675" cx="398.519" cy="405.132" r="6.385"/>
+	<circle fill="#F80675" cx="232.163" cy="429.291" r="6.286"/>
+	<circle fill="#00FAC5" cx="240.043" cy="628.757" r="5.128"/>
+	<circle fill="#00FAC5" cx="452.048" cy="559.361" r="6.513"/>
+	<circle fill="#00FAC5" cx="429.062" cy="602.907" r="5.418"/>
+	<circle fill="#00FAC5" cx="509.507" cy="642.858" r="7.683"/>
+	<circle fill="#00FAC5" cx="478.916" cy="677.818" r="5"/>
+	<circle fill="#FB3F09" cx="720.626" cy="425.989" r="5.515"/>
+	<circle fill="#D20BB6" cx="886.997" cy="704.552" r="5"/>
+	<circle fill="#FAC729" cx="977.364" cy="713.537" r="5"/>
+	<circle fill="#D20BB6" cx="766.984" cy="632.847" r="5.014"/>
+	<circle fill="#00FAC5" cx="613.766" cy="695.009" r="5.994"/>
+	<circle fill="#FAC729" cx="952.603" cy="879.981" r="6.033"/>
+	<circle fill="#F80675" cx="146.645" cy="412.951" r="5.541"/>
+	<circle fill="#D20BB6" cx="711.882" cy="652.825" r="6.345"/>
+	<circle fill="#FAC729" cx="1017.159" cy="630.525" r="5"/>
+	<circle fill="#D20BB6" cx="765.813" cy="745.771" r="5"/>
+	<circle fill="#FB3F09" cx="752.298" cy="155.386" r="5.774"/>
+</g>
+<g id="node-labels">
+	<text transform="matrix(1 0 0 1 796.1041 222.6594)" font-family="'ArialMT'" font-size="18">abba</text>
+	<text transform="matrix(0.583 0 0 0.583 836.1471 228.6536)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 621.1119 150.5146)" font-family="'Arial-ItalicMT'" font-size="18">ba-da-lum</text>
+	<text transform="matrix(1 0 0 1 728.2245 297.4816)" font-family="'ArialMT'" font-size="18">di-ku</text>
+	<text transform="matrix(0.583 0 0 0.583 767.2392 303.4758)" font-family="'ArialMT'" font-size="18">5</text>
+	<text transform="matrix(1 0 0 1 672.4915 230.704)" font-family="'ArialMT'" font-size="18">en</text>
+	<text transform="matrix(1 0 0 1 1044.0656 372.4945)" font-family="'ArialMT'" font-size="18">ib</text>
+	<text transform="matrix(1 0 0 1 1076.5812 557.1614)" font-family="'ArialMT'" font-size="18">ir</text>
+	<text transform="matrix(0.583 0 0 0.583 1086.5743 563.1556)" font-family="'ArialMT'" font-size="18">11</text>
+	<text transform="matrix(1 0 0 1 647.6243 339.8598)" font-family="'ArialMT'" font-size="18">lugal</text>
+	<text transform="matrix(1 0 0 1 562.1726 271.5352)" font-family="'ArialMT'" font-size="18">maškim</text>
+	<text transform="matrix(1 0 0 1 651.3905 92.1273)" font-family="'Arial-ItalicMT'" font-size="18">ma-za-lum</text>
+	<text transform="matrix(1 0 0 1 1154.0442 431.8222)" font-family="'ArialMT'" font-size="18">u</text>
+	<text transform="matrix(0.583 0 0 0.583 1164.0549 437.8163)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 1169.8914 431.8222)" font-family="'ArialMT'" font-size="18">-a</text>
+	<text transform="matrix(1 0 0 1 980.7634 486.1763)" font-family="'ArialMT'" font-size="18">geme</text>
+	<text transform="matrix(0.583 0 0 0.583 1025.7898 492.1704)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(0.7 0 0 0.7 1081.5125 380.5028)" font-family="'ArialMT'" font-size="18">bad</text>
+	<text transform="matrix(1 0 0 1 1107.4202 380.5028)" font-family="'ArialMT'" font-size="18">(-mi</text>
+	<text transform="matrix(0.583 0 0 0.583 1138.4016 386.4969)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 1144.2375 380.5028)" font-family="'ArialMT'" font-size="18">) e</text>
+	<text transform="matrix(0.583 0 0 0.583 1165.2434 386.4969)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 1171.0798 380.5028)" font-family="'ArialMT'" font-size="18"> en</text>
+	<text transform="matrix(1 0 0 1 1066.9945 448.2316)" font-family="'ArialMT'" font-size="18">a-am</text>
+	<text transform="matrix(1 0 0 1 753.424 444.8043)" font-family="'ArialMT'" font-size="18">dam PN/en</text>
+	<text transform="matrix(1 0 0 1 609.9821 536.7415)" font-family="'ArialMT'" font-size="18">dumu-nita en</text>
+	<text transform="matrix(1 0 0 1 602.5544 470.175)" font-family="'ArialMT'" font-size="18">dumu-mi</text>
+	<text transform="matrix(0.583 0 0 0.583 672.5681 476.1691)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 678.4045 470.175)" font-family="'ArialMT'" font-size="18"> en</text>
+	<text transform="matrix(0.7 0 0 0.7 689.7556 573.7468)" font-family="'Arial-ItalicMT'" font-size="18">ma</text>
+	<text transform="matrix(1 0 0 1 708.6555 573.7468)" font-family="'Arial-ItalicMT'" font-size="18">-</text>
+	<text transform="matrix(0.7 0 0 0.7 714.6496 573.7468)" font-family="'Arial-ItalicMT'" font-size="18">lik</text>
+	<text transform="matrix(1 0 0 1 733.5622 573.7468)" font-family="'Arial-ItalicMT'" font-size="18">-</text>
+	<text transform="matrix(0.7 0 0 0.7 739.5563 573.7468)" font-family="'Arial-ItalicMT'" font-size="18">tum</text>
+	<text transform="matrix(1 0 0 1 319.6964 469.8954)" font-family="'ArialMT'" font-size="18">pa</text>
+	<text transform="matrix(0.583 0 0 0.583 339.7179 475.8896)" font-family="'ArialMT'" font-size="18">4</text>
+	<text transform="matrix(1 0 0 1 345.5544 469.8954)" font-family="'ArialMT'" font-size="18">-šeš</text>
+	<text transform="matrix(1 0 0 1 16.3931 506.4662)" font-family="'ArialMT'" font-size="18">enku</text>
+	<text transform="matrix(1 0 0 1 72.0021 511.8823)" font-family="'ArialMT'" font-size="18">ʾ</text>
+	<text transform="matrix(1 0 0 1 77.9962 511.8823)" font-family="'Arial-ItalicMT'" font-size="18">a</text>
+	<text transform="matrix(0.583 0 0 0.583 88.007 517.8765)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 93.8434 511.8823)" font-family="'Arial-ItalicMT'" font-size="18">-li-u</text>
+	<text transform="matrix(0.583 0 0 0.583 123.8405 517.8765)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 -9.5548 471.5114)" font-family="'ArialMT'" font-size="18">a:tu</text>
+	<text transform="matrix(0.583 0 0 0.583 20.4687 477.5056)" font-family="'ArialMT'" font-size="18">5/22</text>
+	<text transform="matrix(0.7 0 0 0.7 832.9957 467.825)" font-family="'ArialMT'" font-size="18">kid</text>
+	<text transform="matrix(0.583 0 0 0.583 853.9996 473.8191)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 859.836 467.825)" font-family="'ArialMT'" font-size="18">.</text>
+	<text transform="matrix(0.7 0 0 0.7 864.837 467.825)" font-family="'ArialMT'" font-size="18">sag</text>
+	<text transform="matrix(1 0 0 1 625.6229 599.6244)" font-family="'ArialMT'" font-size="18">ga-du</text>
+	<text transform="matrix(0.583 0 0 0.583 671.66 605.6185)" font-family="'ArialMT'" font-size="18">8</text>
+	<text transform="matrix(1 0 0 1 859.3713 659.9958)" font-family="'ArialMT'" font-size="18">dam</text>
+	<text transform="matrix(1 0 0 1 544.6193 411.3956)" font-family="'ArialMT'" font-size="18">ur</text>
+	<text transform="matrix(0.583 0 0 0.583 560.6241 417.3898)" font-family="'ArialMT'" font-size="18">4</text>
+	<text transform="matrix(1 0 0 1 785.6086 609.6873)" font-family="'ArialMT'" font-size="18">ša</text>
+	<text transform="matrix(0.583 0 0 0.583 804.6194 615.6814)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 810.4558 609.6873)" font-family="'ArialMT'" font-size="18">-zu</text>
+	<text transform="matrix(1 0 0 1 737.67 685.5339)" font-family="'ArialMT'" font-size="18">tug</text>
+	<text transform="matrix(0.583 0 0 0.583 762.6925 691.528)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 768.5289 685.5339)" font-family="'ArialMT'" font-size="18">-nu-tag</text>
+	<text transform="matrix(1 0 0 1 947.2978 582.0194)" font-family="'ArialMT'" font-size="18">ugula</text>
+	<text transform="matrix(1 0 0 1 828.8459 349.8531)" font-family="'ArialMT'" font-size="18">guruš</text>
+	<text transform="matrix(1 0 0 1 1008.2038 745.9216)" font-family="'ArialMT'" font-size="18">muḫaldim</text>
+	<text transform="matrix(1 0 0 1 924.4563 820.6383)" font-family="'ArialMT'" font-size="18">nagar</text>
+	<text transform="matrix(1 0 0 1 867.9563 789.78)" font-family="'ArialMT'" font-size="18">simug</text>
+	<text transform="matrix(1 0 0 1 134.8355 481.6772)" font-family="'Arial-ItalicMT'" font-size="18">da-mu</text>
+	<text transform="matrix(1 0 0 1 63.5707 451.7822)" font-family="'ArialMT'" font-size="18">dub-sar</text>
+	<text transform="matrix(1 0 0 1 151.162 620.3036)" font-family="'ArialMT'" font-size="18">gu</text>
+	<text transform="matrix(0.583 0 0 0.583 171.1835 626.2978)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 177.0199 620.3036)" font-family="'ArialMT'" font-size="18">-di</text>
+	<text transform="matrix(0.7 0 0 0.7 603.1421 402.3814)" font-family="'ArialMT'" font-size="18">dam</text>
+	<text transform="matrix(1 0 0 1 631.1416 402.3814)" font-family="'ArialMT'" font-size="18">.</text>
+	<text transform="matrix(0.7 0 0 0.7 636.1426 402.3814)" font-family="'ArialMT'" font-size="18">dingir</text>
+	<text transform="matrix(1 0 0 1 269.9612 409.3547)" font-family="'ArialMT'" font-size="18">lu</text>
+	<text transform="matrix(0.583 0 0 0.583 283.971 415.3488)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 289.8074 409.3547)" font-family="'ArialMT'" font-size="18"> dingir{-dingir[-dingir(-dingir)]}</text>
+	<text transform="matrix(1 0 0 1 217.6608 432.5825)" font-family="'ArialMT'" font-size="18">šu-i</text>
+	<text transform="matrix(1 0 0 1 208.0201 632.925)" font-family="'ArialMT'" font-size="18">balag-di</text>
+	<text transform="matrix(0.7 0 0 0.7 417.0327 563.5837)" font-family="'ArialMT'" font-size="18">hub</text>
+	<text transform="matrix(0.583 0 0 0.583 443.6353 569.5779)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 449.4717 563.5837)" font-family="'ArialMT'" font-size="18">(.</text>
+	<text transform="matrix(0.7 0 0 0.7 460.4668 563.5837)" font-family="'ArialMT'" font-size="18">ki</text>
+	<text transform="matrix(1 0 0 1 472.3716 563.5837)" font-family="'ArialMT'" font-size="18">)</text>
+	<text transform="matrix(1 0 0 1 416.054 605.3459)" font-family="'ArialMT'" font-size="18">nar</text>
+	<text transform="matrix(0.7 0 0 0.7 489.991 646.1318)" font-family="'ArialMT'" font-size="18">ne</text>
+	<text transform="matrix(1 0 0 1 507.4944 646.1318)" font-family="'ArialMT'" font-size="18">.</text>
+	<text transform="matrix(0.7 0 0 0.7 512.4954 646.1318)" font-family="'ArialMT'" font-size="18">di</text>
+	<text transform="matrix(1 0 0 1 441.4044 682.0416)" font-family="'ArialMT'" font-size="18">lu</text>
+	<text transform="matrix(0.583 0 0 0.583 455.4142 688.0358)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 461.2506 682.0416)" font-family="'ArialMT'" font-size="18"> gi(-di)</text>
+	<text transform="matrix(1 0 0 1 685.9289 424.0166)" font-family="'ArialMT'" font-size="18">aga</text>
+	<text transform="matrix(0.583 0 0 0.583 715.9611 430.0108)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 721.7975 424.0166)" font-family="'ArialMT'" font-size="18">-us</text>
+	<text transform="matrix(0.583 0 0 0.583 746.8024 430.0108)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 840.4764 707.9406)" font-family="'ArialMT'" font-size="18">ʾ</text>
+	<text transform="matrix(1 0 0 1 846.4706 707.9406)" font-family="'Arial-ItalicMT'" font-size="18">a</text>
+	<text transform="matrix(0.583 0 0 0.583 856.4813 713.9347)" font-family="'ArialMT'" font-size="18">5</text>
+	<text transform="matrix(1 0 0 1 862.3177 707.9406)" font-family="'ArialMT'" font-size="18">-</text>
+	<text transform="matrix(1 0 0 1 868.3119 707.9406)" font-family="'Arial-ItalicMT'" font-size="18">za-ru</text>
+	<text transform="matrix(0.583 0 0 0.583 909.3217 713.9347)" font-family="'ArialMT'" font-size="18">12</text>
+	<text transform="matrix(1 0 0 1 951.3486 717.7054)" font-family="'ArialMT'" font-size="18">azlag</text>
+	<text transform="matrix(0.583 0 0 0.583 994.3799 723.6996)" font-family="'ArialMT'" font-size="18">x</text>
+	<text transform="matrix(1 0 0 1 752.4736 635.2858)" font-family="'ArialMT'" font-size="18">azu</text>
+	<text transform="matrix(1 0 0 1 573.7451 698.2827)" font-family="'ArialMT'" font-size="18">dumu-nita</text>
+	<text transform="matrix(1 0 0 1 928.0819 884.1671)" font-family="'ArialMT'" font-size="18">ašgab</text>
+	<text transform="matrix(1 0 0 1 106.6242 416.2245)" font-family="'ArialMT'" font-size="18">dub-zu-zu</text>
+	<text transform="matrix(1 0 0 1 671.8698 656.1124)" font-family="'ArialMT'" font-size="18">dumu-mi</text>
+	<text transform="matrix(0.583 0 0 0.583 741.8834 662.1065)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 994.1409 633.8581)" font-family="'ArialMT'" font-size="18">engar</text>
+	<text transform="matrix(1 0 0 1 668.276 749.9943)" font-family="'ArialMT'" font-size="18">(dam) gun</text>
+	<text transform="matrix(0.583 0 0 0.583 750.3131 755.9885)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 756.1495 749.9943)" font-family="'ArialMT'" font-size="18">[(-gun</text>
+	<text transform="matrix(0.583 0 0 0.583 803.171 755.9885)" font-family="'ArialMT'" font-size="18">3</text>
+	<text transform="matrix(1 0 0 1 809.007 749.9943)" font-family="'ArialMT'" font-size="18">)-mi</text>
+	<text transform="matrix(0.583 0 0 0.583 839.9884 755.9885)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 845.8248 749.9943)" font-family="'ArialMT'" font-size="18">]</text>
+	<text transform="matrix(1 0 0 1 691.6839 170.1087)" font-family="'ArialMT'" font-size="18">[lu</text>
+	<text transform="matrix(0.583 0 0 0.583 710.6946 176.1028)" font-family="'ArialMT'" font-size="18">2</text>
+	<text transform="matrix(1 0 0 1 716.5311 170.1087)" font-family="'ArialMT'" font-size="18">] kas</text>
+	<text transform="matrix(0.583 0 0 0.583 754.5438 176.1028)" font-family="'ArialMT'" font-size="18">4</text>
+	<text transform="matrix(1 0 0 1 760.3797 170.1087)" font-family="'ArialMT'" font-size="18">(-kas</text>
+	<text transform="matrix(0.583 0 0 0.583 800.3787 176.1028)" font-family="'ArialMT'" font-size="18">4</text>
+	<text transform="matrix(1 0 0 1 806.2151 170.1087)" font-family="'ArialMT'" font-size="18">)</text>
+</g>
+<text transform="matrix(1 0 0 1 655.0571 354.8289)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 734.5226 311.4955)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 803.5096 235.8475)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 579.7238 283.6536)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 668.2765 243.308)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 654.3453 165.4955)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 706.9982 445.7928)" font-family="'ArialMT'" font-size="12">§4.2</text>
+<text transform="matrix(1 0 0 1 383.0571 424.0165)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 338.9548 489.0164)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 90.5146 530.8511)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 22.9735 519.9434)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 -5.9429 486.5759)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 146.6451 498.1922)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 165.8055 638.106)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 220.7238 649.6569)" font-family="'ArialMT'" font-size="12">§4.4</text>
+<text transform="matrix(1 0 0 1 432.0099 580.0995)" font-family="'ArialMT'" font-size="12">§4.4</text>
+<text transform="matrix(1 0 0 1 415.2005 621.4719)" font-family="'ArialMT'" font-size="12">§4.4</text>
+<text transform="matrix(1 0 0 1 466.9269 700.6147)" font-family="'ArialMT'" font-size="12">§4.4</text>
+<text transform="matrix(1 0 0 1 495.0571 659.5707)" font-family="'ArialMT'" font-size="12">§4.4</text>
+<text transform="matrix(1 0 0 1 597.3904 713.5369)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 769.7134 703.1694)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 869.0212 723.2927)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 746.6756 769.5369)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 879.6647 802.1475)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 933.7238 836.8702)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 940.8206 899.5369)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 957.8386 731.5893)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 1040.4922 762.9769)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 1002.3392 650.2296)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 863.9295 675.6046)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 754.5138 651.5021)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 796.104 626.8234)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 637.7238 615.6482)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 713.3702 589.0443)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 955.3315 599.6242)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 994.1412 502.3445)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 1078.3857 578.3364)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 1071.8397 465.9626)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 1039.2389 388.2036)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 1117.0571 398.041)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 1154.0441 450.7252)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 846.993 486.1761)" font-family="'ArialMT'" font-size="12">§4.1</text>
+<text transform="matrix(1 0 0 1 837.0571 364.0212)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 783.7026 458.1265)" font-family="'ArialMT'" font-size="12">§4.6</text>
+<text transform="matrix(1 0 0 1 639.9111 486.1761)" font-family="'ArialMT'" font-size="12">§4.6</text>
+<text transform="matrix(1 0 0 1 643.0828 551.8227)" font-family="'ArialMT'" font-size="12">§4.6</text>
+<text transform="matrix(1 0 0 1 734.523 190.0891)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 680.3052 106.7557)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 131.0792 429.024)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 78.523 465.1022)" font-family="'ArialMT'" font-size="12">§4.5</text>
+<text transform="matrix(1 0 0 1 629.5127 416.2244)" font-family="'ArialMT'" font-size="12">§4.3</text>
+<text transform="matrix(1 0 0 1 698.3359 673.7318)" font-family="'ArialMT'" font-size="12">§4.5</text>
+</svg>
