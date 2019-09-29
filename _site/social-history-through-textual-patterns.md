@@ -10,8 +10,6 @@ This repository cointains the following digital material:
 * Network of the maškim (<a href="https://erica-scarpa.github.io/maškim-network/index.html">link</a>)
 
 
-
-
 ## Figures
 
 * Genealogical diagram of the kings' family (Plate I) (<a href="https://erica-scarpa.github.io/Figures/King.svg">link</a>)
