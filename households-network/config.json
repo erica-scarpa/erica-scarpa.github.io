@@ -10,12 +10,12 @@
   "text": {
     "more": "a",
     "intro": "a",
-    "title": "PN lu2 PN Network"
+    "title": "PN lu<sub>2</sub> PN Network"
   },
   "legend": {
     "edgeLabel": "Occurrence",
     "colorLabel": "Modularity class",
-    "nodeLabel": "PN / lu2 PN"
+    "nodeLabel": "PN / lu<ub>2</sub> PN"
   },
   "features": {
     "search": true,
