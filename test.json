@@ -1,421 +1,517 @@
 {
-  "config": {
-    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
-    "label": "BetterBibTeX JSON",
-    "preferences": {
-      "DOIandURL": "both",
-      "automaticTags": true,
-      "asciiBibLaTeX": false,
-      "ascii": "",
-      "asciiBibTeX": true,
-      "autoExport": "immediate",
-      "quickCopyMode": "latex",
-      "citeCommand": "cite",
-      "quickCopyPandocBrackets": false,
-      "citekeyFormat": "[ArchiveLocation]",
-      "citekeyFold": true,
-      "keyConflictPolicy": "keep",
-      "auxImport": false,
-      "keyScope": "library",
-      "exportBibTeXStrings": "off",
-      "importBibTeXStrings": true,
-      "bibtexParticleNoOp": false,
-      "skipFields": "",
-      "bibtexURL": "off",
-      "warnBulkModify": 10,
-      "postscript": "",
-      "strings": "",
-      "autoAbbrev": false,
-      "autoAbbrevStyle": "",
-      "autoExportIdleWait": 10,
-      "cacheFlushInterval": 5,
-      "csquotes": "",
-      "rawLaTag": "#LaTeX",
-      "rawImports": false,
-      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
-      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc",
-      "jabrefFormat": 0,
-      "qualityReport": false,
-      "biblatexExtendedDateFormat": true,
-      "biblatexExtendedNameFormat": false,
-      "exportTitleCase": true,
-      "exportBraceProtection": true,
-      "retainCache": false,
-      "importSentenceCase": "on+guess",
-      "importCaseProtection": "as-needed",
-      "autoExportDelay": 1,
-      "itemObserverDelay": 5,
-      "parseParticles": true,
-      "citeprocNoteCitekey": false,
-      "extraMergeTeX": true,
-      "extraMergeCSL": true,
-      "extraMergeCitekeys": true,
-      "postscriptOverride": "",
-      "scrubDatabase": false,
-      "removeStock": false,
-      "ignorePostscriptErrors": true,
-      "debugLogDir": "",
-      "testing": false,
-      "autoPin": false,
-      "kuroshiro": false,
-      "relativeFilePaths": false,
-      "git": "config",
-      "mapUnicode": "conservative",
-      "mapText": "",
-      "mapMath": "",
-      "newTranslatorsAskRestart": true,
-      "workers": 0,
-      "platform": "mac",
-      "client": "zotero"
-    },
-    "options": {
-      "exportFileData": false,
-      "exportNotes": true,
-      "keepUpdated": false
-    }
-  },
-  "collections": {},
-  "items": [
+  "data": [
     {
-      "version": 44,
-      "itemType": "journalArticle",
-      "title": "Notes on Eblaite Geography II",
-      "date": "1981",
-      "language": "en",
-      "shortTitle": "Archi, SEb 4 (1981)",
-      "archiveLocation": "EB0052",
-      "volume": "4",
-      "pages": "1-17",
-      "publicationTitle": "Studia Eblaitica",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tag-2"
-        }
-      ],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T11:04:47Z",
-      "uri": "http://zotero.org/groups/1079694/items/GSWUPSCJ",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0052",
-      "citationKey": "EB0052",
-      "itemID": 1972,
-      "key": "GSWUPSCJ",
-      "libraryID": 2
+      "id": "1",
+      "name": "Tiger Nixon",
+      "position": "System Architect",
+      "salary": "$320,800",
+      "start_date": "2011/04/25",
+      "office": "Edinburgh",
+      "extn": "5421"
     },
     {
-      "version": 44,
-      "itemType": "journalArticle",
-      "title": "About the Organization of the Eblaite State",
-      "date": "1982",
-      "language": "en",
-      "shortTitle": "Archi, SEb 5 (1982)",
-      "archiveLocation": "EB0058",
-      "volume": "5",
-      "pages": "201–220",
-      "publicationTitle": "Studi Eblaiti",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tag-3"
-        },
-        {
-          "tag": "Tag-4"
-        }
-      ],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T11:04:54Z",
-      "uri": "http://zotero.org/groups/1079694/items/M7LQQ67X",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0058",
-      "citationKey": "EB0058",
-      "itemID": 1973,
-      "key": "M7LQQ67X",
-      "libraryID": 2
+      "id": "2",
+      "name": "Garrett Winters",
+      "position": "Accountant",
+      "salary": "$170,750",
+      "start_date": "2011/07/25",
+      "office": "Tokyo",
+      "extn": "8422"
     },
     {
-      "version": 43,
-      "itemType": "conferencePaper",
-      "title": "Wovon lebte man in Ebla?",
-      "date": "1982",
-      "language": "de",
-      "shortTitle": "Archi, in RAI 28 (1982)",
-      "archiveLocation": "EB0059",
-      "pages": "173-188",
-      "series": "Archiv für Orientforschung Beiheft 19",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "H.",
-          "lastName": "Hirsch",
-          "creatorType": "editor"
-        },
-        {
-          "firstName": "H.",
-          "lastName": "Hunger",
-          "creatorType": "editor"
-        }
-      ],
-      "tags": [],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T09:26:26Z",
-      "uri": "http://zotero.org/groups/1079694/items/8XLZ53JT",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0059",
-      "citationKey": "EB0059",
-      "itemID": 1974,
-      "key": "8XLZ53JT",
-      "libraryID": 2,
-      "publicationTitle": "Vorträge gehalten auf der 28. Rencontre Assyriologique Internationale in Wien 6.-10. Juli 1981. Horn; Wien"
+      "id": "3",
+      "name": "Ashton Cox",
+      "position": "Junior Technical Author",
+      "salary": "$86,000",
+      "start_date": "2009/01/12",
+      "office": "San Francisco",
+      "extn": "1562"
     },
     {
-      "version": 35,
-      "itemType": "journalArticle",
-      "title": "A Recent Book on Ebla",
-      "date": "1984",
-      "language": "en",
-      "shortTitle": "Archi, SEb 7 (1984)",
-      "archiveLocation": "EB0064",
-      "volume": "7",
-      "pages": "23–43",
-      "publicationTitle": "Studi Eblaiti",
-      "journalAbbreviation": "SEb",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T08:56:17Z",
-      "uri": "http://zotero.org/groups/1079694/items/X75VBR8J",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0064",
-      "citationKey": "EB0064",
-      "itemID": 1975,
-      "key": "X75VBR8J",
-      "libraryID": 2
+      "id": "4",
+      "name": "Cedric Kelly",
+      "position": "Senior Javascript Developer",
+      "salary": "$433,060",
+      "start_date": "2012/03/29",
+      "office": "Edinburgh",
+      "extn": "6224"
     },
     {
-      "version": 35,
-      "itemType": "journalArticle",
-      "title": "Allevamento e distribuzione del bestiame ad Ebla",
-      "date": "1984",
-      "language": "it",
-      "shortTitle": "Archi, SEb 7 (1984)",
-      "archiveLocation": "EB0065",
-      "volume": "7",
-      "pages": "45-81",
-      "publicationTitle": "Studi Eblaiti",
-      "seriesText": "SEb",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T08:56:17Z",
-      "uri": "http://zotero.org/groups/1079694/items/HTHYWINU",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0065",
-      "citationKey": "EB0065",
-      "itemID": 1976,
-      "key": "HTHYWINU",
-      "libraryID": 2
+      "id": "5",
+      "name": "Airi Satou",
+      "position": "Accountant",
+      "salary": "$162,700",
+      "start_date": "2008/11/28",
+      "office": "Tokyo",
+      "extn": "5407"
     },
     {
-      "version": 43,
-      "itemType": "journalArticle",
-      "title": "The \"Names and Professions List\": More Fragments from Ebla",
-      "date": "1984",
-      "language": "en",
-      "shortTitle": "Archi, RA 78(1984)",
-      "archive": "JSTOR",
-      "archiveLocation": "EB0066",
-      "libraryCatalog": "JSTOR",
-      "accessDate": "2019-01-18T13:45:58Z",
-      "volume": "78",
-      "pages": "171-174",
-      "publicationTitle": "Revue d'Assyriologie et d'archéologie orientale",
-      "issue": "2",
-      "journalAbbreviation": "RA",
-      "ISSN": "0373-6032",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T09:26:33Z",
-      "uri": "http://zotero.org/groups/1079694/items/96MYY42F",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0066",
-      "citationKey": "EB0066",
-      "itemID": 1977,
-      "key": "96MYY42F",
-      "libraryID": 2
+      "id": "6",
+      "name": "Brielle Williamson",
+      "position": "Integration Specialist",
+      "salary": "$372,000",
+      "start_date": "2012/12/02",
+      "office": "New York",
+      "extn": "4804"
     },
     {
-      "version": 40,
-      "itemType": "conferencePaper",
-      "title": "Circulation d’objets en métal précieux de poids standardisé à Ebla",
-      "date": "1985",
-      "language": "fr",
-      "shortTitle": "Archi, in Mélanges Birot (1985)",
-      "archiveLocation": "EB0075",
-      "place": "Paris",
-      "pages": "25-34",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "J.-R.",
-          "lastName": "Kupper",
-          "creatorType": "editor"
-        },
-        {
-          "firstName": "Jean-Marie",
-          "lastName": "Durand",
-          "creatorType": "editor"
-        }
-      ],
-      "tags": [],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T09:11:46Z",
-      "uri": "http://zotero.org/groups/1079694/items/TH65MFBK",
-      "attachments": [],
-      "notes": [],
-      "citekey": "EB0075",
-      "citationKey": "EB0075",
-      "itemID": 1978,
-      "key": "TH65MFBK",
-      "libraryID": 2,
-      "publicationTitle": "Miscellanea babylonica. Mélanges offerts à Maurice Birot"
+      "id": "7",
+      "name": "Herrod Chandler",
+      "position": "Sales Assistant",
+      "salary": "$137,500",
+      "start_date": "2012/08/06",
+      "office": "San Francisco",
+      "extn": "9608"
     },
     {
-      "version": 43,
-      "itemType": "journalArticle",
-      "title": "Les noms de personnes mariotes à Ebla (IIIème millénaire)",
-      "date": "1985",
-      "language": "fr",
-      "shortTitle": "Archi, MARI 4 (1985)",
-      "archiveLocation": "EB0073",
-      "volume": "4",
-      "pages": "53-58",
-      "publicationTitle": "MARI",
-      "creators": [
-        {
-          "firstName": "Alfonso",
-          "lastName": "Archi",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T08:56:17Z",
-      "dateModified": "2020-02-17T09:25:59Z",
-      "uri": "http://zotero.org/groups/1079694/items/IXPACIW3",
-      "attachments": [],
-      "notes": [
-        "<p>A new note</p>"
-      ],
-      "citekey": "EB0073",
-      "citationKey": "EB0073",
-      "itemID": 1979,
-      "key": "IXPACIW3",
-      "libraryID": 2
+      "id": "8",
+      "name": "Rhona Davidson",
+      "position": "Integration Specialist",
+      "salary": "$327,900",
+      "start_date": "2010/10/14",
+      "office": "Tokyo",
+      "extn": "6200"
     },
     {
-      "version": 56,
-      "itemType": "journalArticle",
-      "title": "Sillabario di Ebla e ED LU A: Rapporti intercorrenti tra le due liste",
-      "date": "1983",
-      "language": "it",
-      "shortTitle": "Arcari, OrAn 22 (1983)",
-      "archiveLocation": "citekey12",
-      "volume": "22",
-      "pages": "167-178",
-      "publicationTitle": "Oriens Antiquus",
-      "journalAbbreviation": "OrAn",
-      "creators": [
-        {
-          "firstName": "Elena",
-          "lastName": "Arcari",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tag-1"
-        },
-        {
-          "tag": "Tag-2"
-        }
-      ],
-      "collections": [],
-      "relations": [],
-      "dateAdded": "2020-02-17T09:12:01Z",
-      "dateModified": "2020-02-17T11:25:14Z",
-      "uri": "http://zotero.org/groups/1079694/items/5JVHZMG7",
-      "attachments": [],
-      "notes": [
-        "<h3>Author Name, Feb 2020</h3>\n<p><span style=\"caret-color: #222222; color: #222222; font-family: sans-serif; font-size: 13.300000190734863px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;\">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab <em>illo inventore veritatis</em> et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia <strong>voluptas</strong> sit, aspernatur aut odi</span></p>",
-        "<h2>Author Name, Mar 2019</h2>\n<p>The author studies the relationship between two lexical documents: the E(bla) S(ign) L(ist) (<em>MEE</em> 3 51 and 52) and the ED Lu A (<em>MEE</em> 3 1, 2+5, 3+4). The first 56 lines of the ESL seem to be based on the ED Lu A.</p>\n<p>Note that the ESL has been edited also by Archi, in <em>Eblaitica</em> 1 (1987), pp.91-113. The join in [75.1907(+12680) = <em>MEE</em> 3 52 Archi, in <em>Eblaitica</em> 1 (1987) B] has been identified by Archi in his edition and was not available to Arcari in her analysis.</p>\n<p>ESL<sub>1</sub> = [75.1385 = <em>MEE</em> 3 51 = Archi, in <em>Eblaitica</em> 1 (1987) A]; ESL<sub>2</sub> = [75.1907(+12680) = <em>MEE</em> 3 52 = Archi, in <em>Eblaitica</em> 1 (1987) B]. ESL<sub>2</sub> presents also a semitized syllabic reading of each sign, omitted in ESL<sub>1</sub>.</p>\n<p>A digital edition of the ESL<sub>1-2</sub> and the composite text are available on the <em>Digital Corpus of Cuneiform Lexical Texts</em> [<strong>no permalink available</strong>].</p>",
-        "<p>Palapapanda, Jan 2020</p>\n<p>This is a member's note.</p>"
-      ],
-      "citekey": "citekey12",
-      "citationKey": "citekey12",
-      "itemID": 1981,
-      "key": "5JVHZMG7",
-      "libraryID": 2
+      "id": "9",
+      "name": "Colleen Hurst",
+      "position": "Javascript Developer",
+      "salary": "$205,500",
+      "start_date": "2009/09/15",
+      "office": "San Francisco",
+      "extn": "2360"
+    },
+    {
+      "id": "10",
+      "name": "Sonya Frost",
+      "position": "Software Engineer",
+      "salary": "$103,600",
+      "start_date": "2008/12/13",
+      "office": "Edinburgh",
+      "extn": "1667"
+    },
+    {
+      "id": "11",
+      "name": "Jena Gaines",
+      "position": "Office Manager",
+      "salary": "$90,560",
+      "start_date": "2008/12/19",
+      "office": "London",
+      "extn": "3814"
+    },
+    {
+      "id": "12",
+      "name": "Quinn Flynn",
+      "position": "Support Lead",
+      "salary": "$342,000",
+      "start_date": "2013/03/03",
+      "office": "Edinburgh",
+      "extn": "9497"
+    },
+    {
+      "id": "13",
+      "name": "Charde Marshall",
+      "position": "Regional Director",
+      "salary": "$470,600",
+      "start_date": "2008/10/16",
+      "office": "San Francisco",
+      "extn": "6741"
+    },
+    {
+      "id": "14",
+      "name": "Haley Kennedy",
+      "position": "Senior Marketing Designer",
+      "salary": "$313,500",
+      "start_date": "2012/12/18",
+      "office": "London",
+      "extn": "3597"
+    },
+    {
+      "id": "15",
+      "name": "Tatyana Fitzpatrick",
+      "position": "Regional Director",
+      "salary": "$385,750",
+      "start_date": "2010/03/17",
+      "office": "London",
+      "extn": "1965"
+    },
+    {
+      "id": "16",
+      "name": "Michael Silva",
+      "position": "Marketing Designer",
+      "salary": "$198,500",
+      "start_date": "2012/11/27",
+      "office": "London",
+      "extn": "1581"
+    },
+    {
+      "id": "17",
+      "name": "Paul Byrd",
+      "position": "Chief Financial Officer (CFO)",
+      "salary": "$725,000",
+      "start_date": "2010/06/09",
+      "office": "New York",
+      "extn": "3059"
+    },
+    {
+      "id": "18",
+      "name": "Gloria Little",
+      "position": "Systems Administrator",
+      "salary": "$237,500",
+      "start_date": "2009/04/10",
+      "office": "New York",
+      "extn": "1721"
+    },
+    {
+      "id": "19",
+      "name": "Bradley Greer",
+      "position": "Software Engineer",
+      "salary": "$132,000",
+      "start_date": "2012/10/13",
+      "office": "London",
+      "extn": "2558"
+    },
+    {
+      "id": "20",
+      "name": "Dai Rios",
+      "position": "Personnel Lead",
+      "salary": "$217,500",
+      "start_date": "2012/09/26",
+      "office": "Edinburgh",
+      "extn": "2290"
+    },
+    {
+      "id": "21",
+      "name": "Jenette Caldwell",
+      "position": "Development Lead",
+      "salary": "$345,000",
+      "start_date": "2011/09/03",
+      "office": "New York",
+      "extn": "1937"
+    },
+    {
+      "id": "22",
+      "name": "Yuri Berry",
+      "position": "Chief Marketing Officer (CMO)",
+      "salary": "$675,000",
+      "start_date": "2009/06/25",
+      "office": "New York",
+      "extn": "6154"
+    },
+    {
+      "id": "23",
+      "name": "Caesar Vance",
+      "position": "Pre-Sales Support",
+      "salary": "$106,450",
+      "start_date": "2011/12/12",
+      "office": "New York",
+      "extn": "8330"
+    },
+    {
+      "id": "24",
+      "name": "Doris Wilder",
+      "position": "Sales Assistant",
+      "salary": "$85,600",
+      "start_date": "2010/09/20",
+      "office": "Sydney",
+      "extn": "3023"
+    },
+    {
+      "id": "25",
+      "name": "Angelica Ramos",
+      "position": "Chief Executive Officer (CEO)",
+      "salary": "$1,200,000",
+      "start_date": "2009/10/09",
+      "office": "London",
+      "extn": "5797"
+    },
+    {
+      "id": "26",
+      "name": "Gavin Joyce",
+      "position": "Developer",
+      "salary": "$92,575",
+      "start_date": "2010/12/22",
+      "office": "Edinburgh",
+      "extn": "8822"
+    },
+    {
+      "id": "27",
+      "name": "Jennifer Chang",
+      "position": "Regional Director",
+      "salary": "$357,650",
+      "start_date": "2010/11/14",
+      "office": "Singapore",
+      "extn": "9239"
+    },
+    {
+      "id": "28",
+      "name": "Brenden Wagner",
+      "position": "Software Engineer",
+      "salary": "$206,850",
+      "start_date": "2011/06/07",
+      "office": "San Francisco",
+      "extn": "1314"
+    },
+    {
+      "id": "29",
+      "name": "Fiona Green",
+      "position": "Chief Operating Officer (COO)",
+      "salary": "$850,000",
+      "start_date": "2010/03/11",
+      "office": "San Francisco",
+      "extn": "2947"
+    },
+    {
+      "id": "30",
+      "name": "Shou Itou",
+      "position": "Regional Marketing",
+      "salary": "$163,000",
+      "start_date": "2011/08/14",
+      "office": "Tokyo",
+      "extn": "8899"
+    },
+    {
+      "id": "31",
+      "name": "Michelle House",
+      "position": "Integration Specialist",
+      "salary": "$95,400",
+      "start_date": "2011/06/02",
+      "office": "Sydney",
+      "extn": "2769"
+    },
+    {
+      "id": "32",
+      "name": "Suki Burks",
+      "position": "Developer",
+      "salary": "$114,500",
+      "start_date": "2009/10/22",
+      "office": "London",
+      "extn": "6832"
+    },
+    {
+      "id": "33",
+      "name": "Prescott Bartlett",
+      "position": "Technical Author",
+      "salary": "$145,000",
+      "start_date": "2011/05/07",
+      "office": "London",
+      "extn": "3606"
+    },
+    {
+      "id": "34",
+      "name": "Gavin Cortez",
+      "position": "Team Leader",
+      "salary": "$235,500",
+      "start_date": "2008/10/26",
+      "office": "San Francisco",
+      "extn": "2860"
+    },
+    {
+      "id": "35",
+      "name": "Martena Mccray",
+      "position": "Post-Sales support",
+      "salary": "$324,050",
+      "start_date": "2011/03/09",
+      "office": "Edinburgh",
+      "extn": "8240"
+    },
+    {
+      "id": "36",
+      "name": "Unity Butler",
+      "position": "Marketing Designer",
+      "salary": "$85,675",
+      "start_date": "2009/12/09",
+      "office": "San Francisco",
+      "extn": "5384"
+    },
+    {
+      "id": "37",
+      "name": "Howard Hatfield",
+      "position": "Office Manager",
+      "salary": "$164,500",
+      "start_date": "2008/12/16",
+      "office": "San Francisco",
+      "extn": "7031"
+    },
+    {
+      "id": "38",
+      "name": "Hope Fuentes",
+      "position": "Secretary",
+      "salary": "$109,850",
+      "start_date": "2010/02/12",
+      "office": "San Francisco",
+      "extn": "6318"
+    },
+    {
+      "id": "39",
+      "name": "Vivian Harrell",
+      "position": "Financial Controller",
+      "salary": "$452,500",
+      "start_date": "2009/02/14",
+      "office": "San Francisco",
+      "extn": "9422"
+    },
+    {
+      "id": "40",
+      "name": "Timothy Mooney",
+      "position": "Office Manager",
+      "salary": "$136,200",
+      "start_date": "2008/12/11",
+      "office": "London",
+      "extn": "7580"
+    },
+    {
+      "id": "41",
+      "name": "Jackson Bradshaw",
+      "position": "Director",
+      "salary": "$645,750",
+      "start_date": "2008/09/26",
+      "office": "New York",
+      "extn": "1042"
+    },
+    {
+      "id": "42",
+      "name": "Olivia Liang",
+      "position": "Support Engineer",
+      "salary": "$234,500",
+      "start_date": "2011/02/03",
+      "office": "Singapore",
+      "extn": "2120"
+    },
+    {
+      "id": "43",
+      "name": "Bruno Nash",
+      "position": "Software Engineer",
+      "salary": "$163,500",
+      "start_date": "2011/05/03",
+      "office": "London",
+      "extn": "6222"
+    },
+    {
+      "id": "44",
+      "name": "Sakura Yamamoto",
+      "position": "Support Engineer",
+      "salary": "$139,575",
+      "start_date": "2009/08/19",
+      "office": "Tokyo",
+      "extn": "9383"
+    },
+    {
+      "id": "45",
+      "name": "Thor Walton",
+      "position": "Developer",
+      "salary": "$98,540",
+      "start_date": "2013/08/11",
+      "office": "New York",
+      "extn": "8327"
+    },
+    {
+      "id": "46",
+      "name": "Finn Camacho",
+      "position": "Support Engineer",
+      "salary": "$87,500",
+      "start_date": "2009/07/07",
+      "office": "San Francisco",
+      "extn": "2927"
+    },
+    {
+      "id": "47",
+      "name": "Serge Baldwin",
+      "position": "Data Coordinator",
+      "salary": "$138,575",
+      "start_date": "2012/04/09",
+      "office": "Singapore",
+      "extn": "8352"
+    },
+    {
+      "id": "48",
+      "name": "Zenaida Frank",
+      "position": "Software Engineer",
+      "salary": "$125,250",
+      "start_date": "2010/01/04",
+      "office": "New York",
+      "extn": "7439"
+    },
+    {
+      "id": "49",
+      "name": "Zorita Serrano",
+      "position": "Software Engineer",
+      "salary": "$115,000",
+      "start_date": "2012/06/01",
+      "office": "San Francisco",
+      "extn": "4389"
+    },
+    {
+      "id": "50",
+      "name": "Jennifer Acosta",
+      "position": "Junior Javascript Developer",
+      "salary": "$75,650",
+      "start_date": "2013/02/01",
+      "office": "Edinburgh",
+      "extn": "3431"
+    },
+    {
+      "id": "51",
+      "name": "Cara Stevens",
+      "position": "Sales Assistant",
+      "salary": "$145,600",
+      "start_date": "2011/12/06",
+      "office": "New York",
+      "extn": "3990"
+    },
+    {
+      "id": "52",
+      "name": "Hermione Butler",
+      "position": "Regional Director",
+      "salary": "$356,250",
+      "start_date": "2011/03/21",
+      "office": "London",
+      "extn": "1016"
+    },
+    {
+      "id": "53",
+      "name": "Lael Greer",
+      "position": "Systems Administrator",
+      "salary": "$103,500",
+      "start_date": "2009/02/27",
+      "office": "London",
+      "extn": "6733"
+    },
+    {
+      "id": "54",
+      "name": "Jonas Alexander",
+      "position": "Developer",
+      "salary": "$86,500",
+      "start_date": "2010/07/14",
+      "office": "San Francisco",
+      "extn": "8196"
+    },
+    {
+      "id": "55",
+      "name": "Shad Decker",
+      "position": "Regional Director",
+      "salary": "$183,000",
+      "start_date": "2008/11/13",
+      "office": "Edinburgh",
+      "extn": "6373"
+    },
+    {
+      "id": "56",
+      "name": "Michael Bruce",
+      "position": "Javascript Developer",
+      "salary": "$183,000",
+      "start_date": "2011/06/27",
+      "office": "Singapore",
+      "extn": "5384"
+    },
+    {
+      "id": "57",
+      "name": "Donna Snider",
+      "position": "Customer Support",
+      "salary": "$112,000",
+      "start_date": "2011/01/25",
+      "office": "New York",
+      "extn": "4226"
     }
   ]
 }
