@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+
+<div class="post-meta">
+  <i class="far fa-calendar-alt"></i> <span class="post-meta">{{ page.date | date: site.date_format }}</span></div>
+
+          <div class="post-link"><h3 class="h1 post-title">{{ page.title }}</h3></div>
+
+
+
+  {% if page.update_date %}
+    <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
+  {% endif %}
+
+<div class="post-permalink">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <span class="lnr lnr-tag"></span> <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+
+<br>
+
+<article class="post-content">
+  {{ content }}
+</article>

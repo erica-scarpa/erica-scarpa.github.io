@@ -245,6 +245,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  minima
 
 BUNDLED WITH
-   1.15.3
+   1.17.2

@@ -1,32 +1,44 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import "{{ site.theme }}";
 
-body {
-font-family: 'Lato', sans-serif;
-color: #000000;
-font-weight: 400;
-line-height: 23px;
-text-align: justify;
-}
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
-.page-header { color: #f95020; text-align: left; background-color: #159957; background-image: linear-gradient(120deg, #ffffff, #ffffff); }
-@media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
-@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
 
-.project-name { margin-top: 0; font-weight: normal; margin-bottom: 0.1rem; }
-@media screen and (min-width: 64em) { .project-name { font-size: 3.25rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .project-name { font-size: 2.25rem; } }
-@media screen and (max-width: 42em) { .project-name { font-size: 1.75rem; } }
+  .tex sub, .latex sub, .latex sup {
+       text-transform: uppercase;
+     }
 
-.project-tagline { margin-bottom: 0.1rem; font-weight: normal; opacity: 1; }
-@media screen and (min-width: 64em) { .project-tagline { font-size: 1.25rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.15rem; } }
-@media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }
+     .tex sub, .latex sub {
+       vertical-align: -0.5ex;
+       margin-left: -0.1667em;
+       margin-right: -0.125em;
+     }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #f95020; }
+     .tex, .latex, .tex sub, .latex sub {
+       font-size: 1em;
+     }
 
-a { color: #f95020; text-decoration: none; }
+     .latex sup {
+       font-size: 0.85em;
+       vertical-align: 0.15em;
+       margin-left: -0.36em;
+       margin-right: -0.15em;
+     }
 
-.site-footer-credits { color: #000000; }
+     .preview-pic {
+       width: 33%!important;
+       max-height: 250px;
+       margin-left: 20px;
+     }
+
+     .preview-pic img {
+       display: block;
+       margin: auto!important;
+       max-width: 100%;
+       max-height: 100%;
+       width: auto;
+       height: auto;
+     }
