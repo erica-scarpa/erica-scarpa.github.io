@@ -1,5 +1,5 @@
 title: Erica Scarpa
-author: Erica Scarpa
+author:
   name: erica-scarpa
   email: erica.scarpa@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -16,7 +16,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: erica-scarpa
-    github:  erica-scarpa
+    github: erica-scarpa
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
