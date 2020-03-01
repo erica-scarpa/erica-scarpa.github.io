@@ -89,8 +89,8 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
-a { color: #2a7ae2; text-decoration: none; }
-a:visited { color: #1756a9; }
+a { color: #cc6699; text-decoration: none; }
+a:visited { color: #663366; }
 a:hover { color: #111; text-decoration: underline; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
@@ -107,7 +107,7 @@ code { padding: 1px 5px; }
 pre { padding: 8px 12px; overflow-x: auto; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
-.highlight { border-radius: 3px; background: #eef; align-items: center; max-width: 700px; padding: 8px 12px; }
+.highlight { border: 7px solid; border-radius: 5px; border-color: #fff; background: #eef; max-width: 800px; margin: auto; }
 .highlighter-rouge .highlight { background: #eef; }
 
 /** Wrapper */

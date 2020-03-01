@@ -175,15 +175,17 @@ pre {
 }
 
 .highlight {
-  border-radius: 3px;
+  border: 7px solid;
+  border-radius: 5px;
+  border-color: #fff;
   background: $code-background-color;
-  align-items: center;
-  max-width: 700px;
-  padding: 8px 12px;
+  max-width: 800px;
 
-  .highlighter-rouge & {
-    background: $code-background-color;
-  }
+  margin: auto;
+
+    .highlighter-rouge & {
+      background: $code-background-color;
+      }
 }
 
 
