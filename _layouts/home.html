@@ -39,14 +39,15 @@ layout: default
           {% endfor %}
         </div>
         <h3>
-
           <div class="post-link"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></div>
-
         </h3>
 
-          {{ post.content }}
+           {{ post.excerpt }}
+      </li>
 
-      </li><center><i class="fas fa-hand-spock"></i></center>
+          <div class="post-footer"><i class="fas fa-hand-spock"></i>&nbsp;&nbsp;&nbsp;<a href="{{ post.url }}">Leave a comment &raquo;</a>
+                <center>
+          </div>
 
       {%- endfor -%}
 
