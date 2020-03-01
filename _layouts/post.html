@@ -21,7 +21,7 @@ layout: default
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <i class="fa fa-tags"></i><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  <i class="fa fa-tags"></i>&nbsp;<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
