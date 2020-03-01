@@ -1,6 +1,7 @@
 ---
 title: PhD Diss Repository
 permalink: /social-history-through-textual-patterns/
+exclude: true
 ---
 
 This repository contains the following digital material:
