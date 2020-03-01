@@ -1,14 +1,15 @@
 <header class="site-header">
   <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
   <link href="/font-awesome/css/all.css" rel="stylesheet">
-  <div class="wrapper">
-  {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- if titles_size > 0 -%}
+<div class="wrapper">
+
+
+    <a class="site-title" rel="author" href="https:/erica-scarpa.github.io"><img src="assets/images/logo-name.svg" width="198" height="50"></a>
+
+
       <nav class="site-nav">
+        <a class="navbar-brand" href="#">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -38,6 +39,6 @@
         </div>
 -->
       </nav>
-    {%- endif -%}
+
   </div>
 </header>
