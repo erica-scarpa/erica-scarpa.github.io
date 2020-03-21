@@ -99,10 +99,24 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  padding-top: 5px; font-weight: $base-font-weight;
 }
 
 
+h2 {
+  @include relative-font-size(2.50);
+  margin: 0.5;
+}
+
+h2 {
+  @include relative-font-size(1.95);
+  margin: 0.5;
+}
+
+h3 {
+  @include relative-font-size(1.85);
+  
+  }
 
 /**
  * Links
@@ -116,7 +130,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: $link-base-color;
     text-decoration: underline;
   }
 
