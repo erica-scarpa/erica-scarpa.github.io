@@ -21,7 +21,7 @@ Download links:
 * [The City of Ebla - Supplement (sorted by author-date)](/assets/pdf/ebla-supplement-authordate.pdf)
 * [The City of Ebla - Supplement (unsorted)](/assets/pdf/ebla-supplement-unsorted.pdf)
 
-Last update: 2020-02-29
+Last update: 2020-04-28
 ## EDIT #1 (2020-02-29)
 
 **ResearchGate feature**: I uploaded the two documents also on [ResearchGate](https://www.researchgate.net/profile/Erica_Scarpa3). Note that ResearchGate has a feature that shows all references included in a document on the "References" panel in the document view. If the document has been uploaded to ResearchGate by the author(s), this panel provides direct access to it.
