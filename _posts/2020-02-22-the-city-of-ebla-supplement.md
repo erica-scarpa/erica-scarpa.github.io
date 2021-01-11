@@ -10,7 +10,7 @@ permalink: ebla-supplement
 excerpt_separator: <!--more-->
 ---
 
-## Last update: 2020-11-20
+### Last update: 2020-11-20
 
 Two reference collections automatically generated using Zotero and <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>, unsorted or ordered by author-date. These PDFs are meant for those who prefer a printed version of the additions to on-line bibliography on the *Ebla Digital Archives Project*. The online searchable edition is available on the *EbDA* website, and regularly updated (visit [ebda.cnr.it](http://ebda.cnr.it/biblio)).
 
