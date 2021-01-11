@@ -1,7 +1,7 @@
 ---
 title: CV (Italian)
 permalink: /CV-ita/
-
+exclude: true
 ---
 
 [ITA](https://erica-scarpa.github.io/CV-ita/)
