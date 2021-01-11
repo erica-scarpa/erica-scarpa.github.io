@@ -13,8 +13,6 @@ March 27<sup>th</sup>-28<sup>th</sup>, Ca' Foscari University of Venice
 ![](/assets/images/thinking-digital-banner.jpg)
 
 
-The purpose of this paper is to share my personal experience with digital tools, describe the path I’m following, and explain the reasons that pushed me towards the adoption of digital tools, in the specific, data mining and data visualization, combining some methodological considerations with my personal experience.
-
 <hr>
 
 ### The maškim Network
