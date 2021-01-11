@@ -1,25 +1,29 @@
 ---
 title: CV
 permalink: /CV/
+
 ---
+
+[ITA](https://erica-scarpa.github.io/CV-ita/)
+
 ## Erica Scarpa – *Curriculum vitae*
 
 ### Personal information
 
-*  e-mail: <a mailto="erica.scarpa@gmail.com">erica.scarpa@gmail.com</a>; <a mailto="erica.scarpa@unive.it">erica.scarpa@unive.it</a>
-* Web pages: <a href="https://github.com/erica-scarpa">GitHub</a>; <a href="https://unive.academia.edu/ericascarpa">academia.edu</a>; <a href="https://www.researchgate.net/profile/Erica_Scarpa3">ResearchGate</a>
+*  e-mail: <a mailto="erica.scarpa@gmail.com">erica.scarpa@gmail.com</a>
+* Web pages: <a href="https://github.com/erica-scarpa">GitHub</a>; <a href="https://www.researchgate.net/profile/Erica_Scarpa3">ResearchGate</a>; [personal page](https://erica-scarpa.github.io/#)
 
 
 ### Education
 
-* 2020: PhD (Dottorato di ricerca) in Ancient Heritage Studies, Ca’ Foscari University of Venice (XXXII cycle). Supervisor: Prof. Lucio Milano. Dissertation: *Social History through Textual Patterns. Study on the Social Organization at Ebla during the Age of the Archives (Syria, 24<sup>th</sup> century BCE)* (<a href="https://www.academia.edu/42008636/Social_History_through_Textual_Patterns._Study_on_the_Social_Organization_at_Ebla_during_the_Age_of_the_Royal_Archives_Syria_24th_century_BCE_ToC_and_Introduction_">Link</a>)
-* 2013: Master’s Degree (Laurea Magistrale) in Ancient Heritage Studies, Ca’ Foscari University of Venice (Italy). Supervisor: Prof. Lucio Milano. Thesis: *La geografia storica della Siria nell'età degli Archivi di Ebla*, 110/110 cum laude (<a href="https://www.academia.edu/5951561/La_geografia_storica_della_Siria_nelletà_degli_Archivi_di_Ebla._I_dati_dei_testi_di_cancelleria">Link</a>)
-* 2010: Bachelor’s Degree (Laurea Triennale) in Archaeology, Università degli Studi di Padova (Italy). Supervisor: Prof. Giovanni Battista Lanfranchi. Thesis: *La Maledizione di Akkad. Tra ricostruzione storica ed interpretazione religiosa.* 108/110
+* 2020: PhD (Dottorato di ricerca, XXXII cycle) in Ancient Heritage Studies, Ca’ Foscari University of Venice - University of Trieste - University of Udine (Italy, Inter-University PhD programme). Supervisor: Prof. Lucio Milano. Dissertation: *Social History through Textual Patterns. Study on the Social Organization at Ebla during the Age of the Archives (Syria, 24<sup>th</sup> century BCE)* (<a href="https://www.academia.edu/42008636/Social_History_through_Textual_Patterns._Study_on_the_Social_Organization_at_Ebla_during_the_Age_of_the_Royal_Archives_Syria_24th_century_BCE_ToC_and_Introduction_">Link</a>)
+* 2013: Master’s Degree (Laurea Magistrale) in Ancient Civilisations: Literature, History and Archaeology, Ca’ Foscari University of Venice (Italy). Supervisor: Prof. Lucio Milano. Thesis: *La geografia storica della Siria nell'età degli Archivi di Ebla*, 110/110 cum laude (<a href="https://www.academia.edu/5951561/La_geografia_storica_della_Siria_nelletà_degli_Archivi_di_Ebla._I_dati_dei_testi_di_cancelleria">Link</a>)
+* 2010: Bachelor’s Degree (Laurea Triennale) in Archaeology, University of Padova. Supervisor: Prof. Giovanni Battista Lanfranchi. Thesis: *La Maledizione di Akkad. Tra ricostruzione storica ed interpretazione religiosa.* 108/110
 
 ### Publications
 
 * Scarpa, Erica (2017). *The City of Ebla. A Complete Bibliography of its Archaeological and Textual Remains.* Venezia: Edizioni Ca' Foscari. (<a href="http://edizionicafoscari.unive.it/it/edizioni/libri/978-88-6969-159-1/">Open Access</a>; <a href="https://github.com/erica-scarpa/the-city-of-ebla">GitHub Repository</a>; <a href="http://ebda.cnr.it/biblio">Online version</a>).
-* Scarpa, Erica (2016). «Untangling the Past: l'assiriologia e le reti sociali come strumento di indagine storica». In: Rui, M. (a cura di), *Design the Future! Extended abstracts della multiconferenza EMEMITALIA2016, Modena, 7-9 settembre 2016*. Genova University Press. Genova, pp. 413-422. (<a href="https://www.academia.edu/42028291/_2016_Untangling_the_Past_l_assiriologia_e_le_reti_sociali_come_strumento_di_indagine_storica_._In_Rui_M._a_cura_di_Design_the_Future_Extended_abstracts_della_multiconferenza_EMEMITALIA2016_Modena_7-9_settembre_2016._Genova_University_Press._Genova_pp._413-422">Link</a>).
+* Scarpa, Erica (2017). «*Untangling the Past*: l'assiriologia e le reti sociali come strumento di indagine storica». In: Rui, M. (a cura di), *Design the Future! Extended abstracts della multiconferenza EMEMITALIA2016, Modena, 7-9 settembre 2016*. Genova University Press. Genova, pp. 413-422. (<a href="https://www.academia.edu/42028291/_2016_Untangling_the_Past_l_assiriologia_e_le_reti_sociali_come_strumento_di_indagine_storica_._In_Rui_M._a_cura_di_Design_the_Future_Extended_abstracts_della_multiconferenza_EMEMITALIA2016_Modena_7-9_settembre_2016._Genova_University_Press._Genova_pp._413-422">Link</a>).
 
 ### Conference Papers
 
@@ -28,7 +32,6 @@ permalink: /CV/
 
 ### Teaching
 
-* Sept – Dec 2018: Tutoring – Supplementary teaching activity in Assyriology, Ca’ Foscari University of Venice. Course: Assiriology I and II (a.y. 2018/2019), Prof. Paola Corò.
 * Nov – Dec 2016: Seminar – *Bibliografia e Bibliografie in Orientalistica* (10 hours; November 9<sup>th</sup> – December 7<sup>th</sup> 2016).
 * Feb – Mar 2017: Seminar – *Information Overload. Strumenti informatici per raccogliere, estrarre e visualizzare dati nelle discipline storiche ed epigrafiche* (10 hours; February 9<sup>th</sup> – March 16<sup>th</sup> 2017).
 * Sept – Dec 2015: Tutoring – Supplementary teaching activity in Assyriology, Ca’ Foscari University of Venice. Course: Assiriology I and II (a.y. 2015/2016), Prof. Paola Corò.
@@ -38,9 +41,10 @@ permalink: /CV/
 
 ### Research Contracts / Employment
 
-* Jun – Aug 2017: Teaching Fellow, Ca’ Foscari Harvard Summer School (Italy). Course: Venice and the Classical Past. Scientific supervision: Prof. Lorenzo Calvelli.
-* Jan – Jun 2016: Research Fellow – Indexing and prosopographical analysis of proper names beginning in D/T, Università degli Studi di Firenze (Italy). The Prosopography of Ebla Project. Scientific supervision: Prof. Amalia Catagnoti.
+* Jun – Aug 2017: Teaching Fellow, Ca’ Foscari Harvard Summer School (Italy). Course: *Venice and the Classical Past*. Scientific supervision: Prof. Lorenzo Calvelli.
+* Jan – Jun 2016: Research Fellow – Indexing and prosopographical analysis of proper names beginning in D/T, Università degli Studi di Firenze (Italy). *The Prosopography of Ebla Project*. Scientific supervision: Prof. Amalia Catagnoti.
 * Jul - Aug 2014: Responsible for Data Econding, Ca’ Foscari University of Venice. *The Ebla Digital Archives Project*. Scientific supervision: Prof. Lucio Milano.
 * May - Aug 2013: Responsible for Data Econding, Ca’ Foscari University of Venice. *The Ebla Digital Archives Project*. Scientific supervision: Prof. Lucio Milano.
 
 <center><i class="fab fa-rebel fa-fw fa-1x">
+
