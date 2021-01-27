@@ -16,9 +16,9 @@ permalink: /CV/
 
 ### Education
 
-* 2020: PhD (Dottorato di ricerca, XXXII cycle) in Ancient Heritage Studies, Ca’ Foscari University of Venice - University of Trieste - University of Udine (Italy, Inter-University PhD programme). Supervisor: Prof. Lucio Milano. Dissertation: *Social History through Textual Patterns. Study on the Social Organization at Ebla during the Age of the Archives (Syria, 24<sup>th</sup> century BCE)* (<a href="https://www.academia.edu/42008636/Social_History_through_Textual_Patterns._Study_on_the_Social_Organization_at_Ebla_during_the_Age_of_the_Royal_Archives_Syria_24th_century_BCE_ToC_and_Introduction_">Link</a>)
-* 2013: Master’s Degree (Laurea Magistrale) in Ancient Civilisations: Literature, History and Archaeology, Ca’ Foscari University of Venice (Italy). Supervisor: Prof. Lucio Milano. Thesis: *La geografia storica della Siria nell'età degli Archivi di Ebla*, 110/110 cum laude (<a href="https://www.academia.edu/5951561/La_geografia_storica_della_Siria_nelletà_degli_Archivi_di_Ebla._I_dati_dei_testi_di_cancelleria">Link</a>)
-* 2010: Bachelor’s Degree (Laurea Triennale) in Archaeology, University of Padova. Supervisor: Prof. Giovanni Battista Lanfranchi. Thesis: *La Maledizione di Akkad. Tra ricostruzione storica ed interpretazione religiosa.* 108/110
+* 2020: **PhD (Dottorato di ricerca, XXXII cycle) in Ancient Heritage Studies**, Ca’ Foscari University of Venice - University of Trieste - University of Udine (Italy, Inter-University PhD programme). Supervisor: Prof. Lucio Milano. Dissertation: *Social History through Textual Patterns. Study on the Social Organization at Ebla during the Age of the Archives (Syria, 24<sup>th</sup> century BCE)* (<a href="https://www.academia.edu/42008636/Social_History_through_Textual_Patterns._Study_on_the_Social_Organization_at_Ebla_during_the_Age_of_the_Royal_Archives_Syria_24th_century_BCE_ToC_and_Introduction_">Link</a>)
+* 2013: **Master’s Degree (Laurea Magistrale) in Ancient Civilisations: Literature, History and Archaeology**, Ca’ Foscari University of Venice (Italy). Supervisor: Prof. Lucio Milano. Thesis: *La geografia storica della Siria nell'età degli Archivi di Ebla*, 110/110 cum laude (<a href="https://www.academia.edu/5951561/La_geografia_storica_della_Siria_nelletà_degli_Archivi_di_Ebla._I_dati_dei_testi_di_cancelleria">Link</a>)
+* 2010: **Bachelor’s Degree (Laurea Triennale) in Archaeology**, University of Padova. Supervisor: Prof. Giovanni Battista Lanfranchi. Thesis: *La Maledizione di Akkad. Tra ricostruzione storica ed interpretazione religiosa.* 108/110
 
 ### Publications
 
@@ -41,6 +41,7 @@ permalink: /CV/
 
 ### Research Contracts / Employment
 
+* January – October 2018: Visiting Researcher – Consejo Superior de  Investigaciones Cietíficas, Instituto de Lenguas y Culturas del Mediterráneo y Oriente Próximo, Departamento de Estudios de Próximo Oriente Antiguo (Madrid, Spain). Part of PhD program.
 * Jun – Aug 2017: Teaching Fellow, Ca’ Foscari Harvard Summer School (Italy). Course: *Venice and the Classical Past*. Scientific supervision: Prof. Lorenzo Calvelli.
 * Jan – Jun 2016: Research Fellow – Indexing and prosopographical analysis of proper names beginning in D/T, Università degli Studi di Firenze (Italy). *The Prosopography of Ebla Project*. Scientific supervision: Prof. Amalia Catagnoti.
 * Jul - Aug 2014: Responsible for Data Econding, Ca’ Foscari University of Venice. *The Ebla Digital Archives Project*. Scientific supervision: Prof. Lucio Milano.

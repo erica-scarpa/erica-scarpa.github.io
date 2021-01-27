@@ -12,7 +12,6 @@ March 27<sup>th</sup>-28<sup>th</sup>, Ca' Foscari University of Venice
 
 ![](/assets/images/thinking-digital-banner.jpg)
 
-
 <hr>
 
 ### The maškim Network
