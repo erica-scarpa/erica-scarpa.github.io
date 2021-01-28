@@ -1,111 +1,696 @@
-<html>
+<!doctype html>
+<html lang="en">
 
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Erica Scarpa">
+  <meta name="generator" content="Hugo 0.79.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 
-<!-- Import Sigma JS -->
-<script src="/lib/sigma.min.js"></script>
-<script src="/lib/sigma.layout.forceAtlas2.min.js"></script>
-<script src="/lib/sigma.parsers.json.min.js"></script>
-<script src="bootstrap.js"></script>
-<!-- Add some CSS so we can see the graph! -->
+  <title>The Prosopography of the Lugals</title>
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
-<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+
+<!-- Bootstrap core CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+  integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Font Awesome -->
+  <link href="/font-awesome/css/all.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+  integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+  crossorigin="anonymous" />
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+
+    body {
+      background-color:bisque;
+    }
+
+    
+    svg {
+    z-index: -100;
+    margin: 0 auto;
+    border: 1px red;
+    }
+
+  .links line {
+          stroke: #999;
+          stroke-opacity: 0.6;
+        }
+
+   .nodes circle {
+          stroke: #fff;
+          stroke-width: 0px;
+        }
+
+    text {
+          font-size: 16px;
+          color: white;
+        }
+  
+  </style>
+
 
 </head>
 
 <body class="d-flex flex-column h-100">
 
-<main class="flex-shrink-0">
+  <header>
+    <div class="collapse bg-dark" id="navbarHeader">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 col-md-7 py-4">
+            <h4 class="text-white">About this graph</h4>
+            <p class="text-muted">This graph is a visual representation of the data published in Archi, Alfonso (2000), "The 'Lords',
+            lugal-lugal, of Ebla: A Prosopographic Study" <i>Vicino Oriente</i> 12, 19-59 (<a
+              href="http://www.journal-vo.it/Publicazioni/VO%20XII/VO%20XII/VO_XII_Archi.pdf" class="card-link">link</a>). Nodes
+            represent the proper names of the lugals or the mu-DU documents in which their appear according to the chronology
+            established by Archi 2000: whenever a lord is mentioned, he is connected to the text by a link.</p>
+          </div>
+          <div class="col-sm-4 offset-md-1 py-4">
+            <h4 class="text-white">Contact</h4>
+            <ul class="list-unstyled">
+              <li><i class="fab fa-github-alt"></i><a href="https://erica-scarpa.github.io" class="text-white">Personal page</a></li>
+              <li><i class="fab fa-researchgate"></i><a href="https://www.researchgate.net/profile/Erica_Scarpa3" class="text-white">Research Gate</a></li>
+              <li><i class="fa fa-envelope"></i><a href="mailto:erica.scarpa@gmail.com" class="text-white">Email me</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+      <div class="container">
+        <a href="#" class="navbar-brand d-flex align-items-center">
+          <strong>The Prosopography of the Lugals</strong>&nbsp;| A Network Study
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
+          aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </div>
+  </header>
 
-<div class="container">
-  <div class="row">
-    <div class="col-3">
-            <div class="card">
-              <div class="card-body">
-                <h2 class="card-title">The Prosopography of the lugals</h2>
-                <h6 class="card-subtitle mb-2 text-muted">A Network Study</h6>
-                <p class="card-text">This graph is a visual representation of the data published in Archi, Alfonso (2000), 
-                  “The ‘Lords’, lugal-lugal, of Ebla. A Prosopographic Study.” <i>Vicino Oriente</i> 12: 19–59. Nodes 
-                  represent the lugals and the mu-DU documents in which their appear: whenever a lord is mentioned, he is connected to the text by a link.</p>
-                <a href="http://www.journal-vo.it/Publicazioni/VO%20XII/VO%20XII/VO_XII_Archi.pdf" class="card-link">Opensource Archi, <i>VO</i> 12 (2000) </a> </br>
-                
-                <a href="#" class="card-link">Another link</a>
+  
 
+  <main class="flex-shrink-0">
 
+    
+
+    <section class="py-5 container">
+          <div class="row-1">
             
+            <div class="col-4">
+            </svg>
+              <div class="card">
+                <div class="card-body">
+          
+                      <p class="card-text">This graph is a visual representation of the data published in Archi, Alfonso (2000), "The 'Lords',
+                        lugal-lugal, of Ebla: A Prosopographic Study" <i>Vicino Oriente</i> 12, 19-59 (<a href="http://www.journal-vo.it/Publicazioni/VO%20XII/VO%20XII/VO_XII_Archi.pdf" class="card-link">link</a>). Nodes
+                        represent the proper names of the lugals or the mu-DU documents in which their appear according to the chronology
+                        established by Archi 2000: whenever a lord is mentioned, he is connected to the text by a link.</p>
+          
+          <!-- Button trigger modal -->
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            Legenda for the mu-DU documents
+          </button>
+                    <!-- Modal -->
+                                  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-xl">
+                                      <div class="modal-content">
+                                        <div class="modal-header">
+                                          <h5 class="modal-title" id="exampleModalLabel">Legenda for the mu-DU documents</h5>
+                                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                          <table>
+                                            <colgroup>
+                                              <col style="width: 46%" />
+                                              <col style="width: 6%" />
+                                              <col style="width: 46%" />
+                                            </colgroup>
+                                            <thead>
+                                              <tr class="header">
+                                                <th>Text</th>
+                                                <th>Period</th>
+                                                <th>Colophon</th>
+                                              </tr>
+                                            </thead>
+                                            <tbody>
+                                              <tr class="odd">
+                                                <td>[75.1219 = EST 016 = <span class="citation" data-cites="Archi1987e">@Archi1987e</span>]</td>
+                                                <td>Ia Text 1</td>
+                                                <td>(total) mu-<span class="smallcaps">du</span> (on edge: mu-<span class="smallcaps">du</span> 97)</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1296 = M 2 15]</td>
+                                                <td>Ia Text 2</td>
+                                                <td>mu-<span class="smallcaps">du</span> / lugal-lugal / 6 mu / i[ti] <span
+                                                    class="smallcaps">[m]a</span>×gana<sub>2</sub> <em>tenû</em>-<span class="smallcaps">sag</span></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1350 = M 2 34]</td>
+                                                <td>Ia Text 3</td>
+                                                <td>dub lugal-lugal na-ru<sub>2</sub></td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1357 = M 2 36]</td>
+                                                <td>Ia Text 4</td>
+                                                <td>dub / dingir <em>i</em><sub>3</sub>-<em>ra-mu</em> / 6 mu</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1370 = M 2 44]</td>
+                                                <td>Ia 5</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1373 = M 2 47]</td>
+                                                <td>Ia 6</td>
+                                                <td>mu-<span class="smallcaps">du</span> / lugal-lugal / <em>in</em> / iti i<sub>3</sub>-nun / <span
+                                                    class="smallcaps">du</span> / <em>dar</em><sub>5</sub>-<em>kab-du-lum</em></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1374]</td>
+                                                <td>Ia 7</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1461]</td>
+                                                <td>Ia 8</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1491]</td>
+                                                <td>Ia 9</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1549 = A II 25]</td>
+                                                <td>Ia 10</td>
+                                                <td>(total) / udu-udu / in-na-sum / lugal-lugal / 6</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1553]</td>
+                                                <td>Ia 11</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1655 = M 7 16]</td>
+                                                <td>Ia 12</td>
+                                                <td>(total) guruš-guruš / tuš / <em>aš</em><sub>2</sub>-<em>ti</em> / ⸢<em>ti-in</em>⸣<sup>ki</sup> / iti
+                                                  <em>i</em>-<em>ri</em><sub>2</sub>-<em>sa</em><sub>2</sub></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1686]</td>
+                                                <td>Ia 13</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1752 = A I 29 = M 7 41]</td>
+                                                <td>Ia 14</td>
+                                                <td>(total)</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1733+4511+4514 = M 7 36]</td>
+                                                <td>Ia 15</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1762 = M 7 43]</td>
+                                                <td>Ia 16</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1968]</td>
+                                                <td>Ia 17</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2018 = A VII 21]</td>
+                                                <td>Ia 18</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2113]</td>
+                                                <td>Ia 19</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2113]</td>
+                                                <td>Ia 20</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2349 = M 12 33]</td>
+                                                <td>Ia 21</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2576]</td>
+                                                <td>Ia 22</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.10024]+[75.3389 = A III 342]</td>
+                                                <td>Ia 23</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.10062]</td>
+                                                <td>Ia 24</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1237]</td>
+                                                <td>Ib 1</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[77.23+80.207]</td>
+                                                <td>Ib 2</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[76.882]</td>
+                                                <td>Ib 3</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.11430+11931+11937]</td>
+                                                <td>Ib 4</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1226 = <span class="citation" data-cites="Archi1987e">@Archi1987e</span>]</td>
+                                                <td>Ib 5</td>
+                                                <td>lugal na<sub>4</sub> <em>i-ra-sum</em> […] na<sub>4</sub> en mu-<span class="smallcaps">du</span></td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1267 = EST 015 = <span class="citation" data-cites="Archi1987e">@Archi1987e</span>]/</td>
+                                                <td>Ib 6</td>
+                                                <td>in-na-sum / 2 mu / (total) / lugal-lugal</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1277]</td>
+                                                <td>Ib 7</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1295 = M 2 14]</td>
+                                                <td>Ib 8</td>
+                                                <td>dub / nidba<sub>2</sub> / na-ru<sub>2</sub></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1314]</td>
+                                                <td>Ib 9</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1338 = M 2 26]</td>
+                                                <td>Ib 10</td>
+                                                <td>dingir <em>i</em><sub>3</sub>-<em>ra-mu</em></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1339 = M 2 27]</td>
+                                                <td>Ib 11</td>
+                                                <td>(total)</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1359 = M 2 38]</td>
+                                                <td>Ib 12</td>
+                                                <td>mu-<span class="smallcaps">du</span> / lugal-lugal / za<sub>x</sub> /
+                                                  <em>dar</em><sub>5</sub>-<em>kab-du-lum</em></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1437]</td>
+                                                <td>Ib 13</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1465]</td>
+                                                <td>Ib 14</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1702 = A I 30 = M 7 28]</td>
+                                                <td>Ib 15</td>
+                                                <td>mu-<span class="smallcaps">du</span> / en</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1714 = M 7 31]</td>
+                                                <td>Ib 16</td>
+                                                <td>2 mu</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1769 = M 7 46]</td>
+                                                <td>Ib 17</td>
+                                                <td>7 mu</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1283 = A VII 71]</td>
+                                                <td>Ib 18</td>
+                                                <td>no colophon</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2140]</td>
+                                                <td>Ib 19</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.10086]</td>
+                                                <td>Ib 20</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1459]</td>
+                                                <td>II 1</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.3195 = A III 168]+[75.3197 = A III 170]+[75.3391+3395 = ARET III 344]+[75.5643]+[75.11421]</td>
+                                                <td>II 2</td>
+                                                <td>3 mu</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1897]+[75.3390 = A III 343]</td>
+                                                <td>II 3</td>
+                                                <td>dub-gar / mu-<span class="smallcaps">du</span> / lugal-lugal</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1378 = M 2 50]+[75.3064 = A III 52]</td>
+                                                <td>II 4</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1746 = M 7 38]</td>
+                                                <td>III 1</td>
+                                                <td>2 mu / til / en</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1740]</td>
+                                                <td>III 2</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2361]</td>
+                                                <td>III 3</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.10258]</td>
+                                                <td>III 4</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2031]</td>
+                                                <td>III 5</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2015 = A II 13 = M 10 40]</td>
+                                                <td>III 6</td>
+                                                <td>mu-<span class="smallcaps">du</span> / <em>wa</em> / e<sub>3</sub></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2355]</td>
+                                                <td>III 7</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1586]</td>
+                                                <td>III 8</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2172]</td>
+                                                <td>III 9</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.10200]</td>
+                                                <td>III 10</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2360]</td>
+                                                <td>III 11</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1587 = M 7 2]</td>
+                                                <td>III 12</td>
+                                                <td>[broken]</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2272]</td>
+                                                <td>III 13</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1527]</td>
+                                                <td>III 14</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1864]</td>
+                                                <td>III 15</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1556]</td>
+                                                <td>III 16</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1297]</td>
+                                                <td>III 17</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1261 = M 2 1]</td>
+                                                <td>III 18</td>
+                                                <td><span class="smallcaps">diš</span> mu til / <em>ib-ri</em><sub>2</sub>-<em>um</em></td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1462]</td>
+                                                <td>IIIa 1</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1518]</td>
+                                                <td>IIIa b</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.1526]</td>
+                                                <td>IIIa 3</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td><span class="citation" data-cites="Archi1987e">[75.2022 = M 10 41 = @Archi1987e]</span></td>
+                                                <td>IIIa 4</td>
+                                                <td>dub / <span class="smallcaps">du.du</span> <em>ti-ni-ib</em><sub>2</sub>-<em>du-lum</em> / <span
+                                                    class="smallcaps">dam.dingir</span> / dumu-mi<sub>2</sub> en / <em>si-in</em> / <em>lu-ba-an</em><sup>ki</sup>
+                                                </td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2351]</td>
+                                                <td>IV 1<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2350]</td>
+                                                <td>IV 2<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2519]+</td>
+                                                <td>IV 3<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2341]</td>
+                                                <td>IV 4</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2375]</td>
+                                                <td>IV 5</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.1895+10188]</td>
+                                                <td>IV 6</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2289]</td>
+                                                <td>IV 7</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2244]</td>
+                                                <td>IV 8<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.10236]</td>
+                                                <td>IV 9</td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2073]</td>
+                                                <td>IV 10<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[75.2070 = M 12 3]</td>
+                                                <td>IV 11<sup>?</sup></td>
+                                                <td>mu-<span class="smallcaps">du</span> / lugal-lugal</td>
+                                              </tr>
+                                              <tr class="even">
+                                                <td>[75.2072]</td>
+                                                <td>IV 12<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                              <tr class="odd">
+                                                <td>[76.528 = A VIII 528 = M 5 8]</td>
+                                                <td>IV 13<sup>?</sup></td>
+                                                <td>unpublished</td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </div>
+                                        <div class="modal-footer">
+                                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
 
-
-
-
-              </div>
-            </div>
-    </div>
-    <div class="col-md-auto">
-              
-    </div>
-    <div class="col">
-      Info pane
+          </div></div></div>
+        </div>
     </div>
   </div>
-  
 </div>
 
+        </div>
+      </div>
+    </section>
+<svg width="1700" height="700"></svg>sss
+  </main>
+  
 
-</main>
-<!-- A placeholder for the graph -->
+<footer>
+  <script>
 
+  var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
 
-<footer class="footer mt-auto py-3 bg-light">
-  <div class="container-footer">
-    <span class="text-muted">Erica Scarpa - <a href="mailto:erica.scarpa@gmail.com">erica.scarpa@gmail.com</a></span>
-  </div>
-</footer>
+  var color = d3.scale.category10();
+  
+  var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function (d) { return d.id; }))
+    .force("charge", d3.forceManyBody().strength(-75))
+    .force("center", d3.forceCenter(width / 2.7, height / 2.5));
 
-<div id="network-graph"></div>
+  d3.json("dataset.json", function (error, graph) {
+    if (error) throw error;
 
+    var link = svg.append("g")
+      .attr("class", "links")
+      .selectAll("line")
+      .data(graph.links)
+      .enter().append("line")
+      .attr("stroke-width", function (d) { return Math.sqrt(d.value); });
 
-<!-- The most basic usage of the Sigma JSON parser -->
-<script>
-function getParameterByName(name) {
-  var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
-  return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
-};
+    var node = svg.append("g")
+      .attr("class", "nodes")
+      .selectAll("g")
+      .data(graph.nodes)
+      .enter().append("g")
 
-sigma.parsers.json( "data.json",
+    var circles = node.append("circle")
+      .attr("r", 6)
+      .attr("fill", function (d) { return color(d.group); })
+      .call(d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended));
 
-  {container: 'network-graph'},
+    var lables = node.append("text")
+      .text(function (d) {
+        return d.id;
+      })
+      .attr('x', 6)
+      .attr('y', 3);
 
-  function(s) { //This function is passed an instance of Sigma s
+    node.append("title")
+      .text(function (d) { return d.id; });
 
-    nodeId = parseInt(getParameterByName('node_id'));
+    simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
 
-    var selectedNode;
+    simulation.force("link")
+      .links(graph.links);
 
-    s.graph.nodes().forEach(function(node, i, a) {
-      if (node.id == nodeId) {
-        selectedNode = node;
-        return;
-      }
-    });
+    function ticked() {
+      link
+        .attr("x1", function (d) { return d.source.x; })
+        .attr("y1", function (d) { return d.source.y; })
+        .attr("x2", function (d) { return d.target.x; })
+        .attr("y2", function (d) { return d.target.y; });
 
-    //Initialize nodes as a circle
-    s.graph.nodes().forEach(function(node, i, a) {
-      node.x = Math.cos(Math.PI * 2 * i / a.length);
-      node.y = Math.sin(Math.PI * 2 * i / a.length);
-    });
-
-    //Call refresh to render the new graph
-    s.refresh();
-
-    s.startForceAtlas2();
-
-    if (selectedNode != undefined){
-      s.cameras[0].goTo({x:selectedNode['read_cam0:x'],y:selectedNode['read_cam0:y'],ratio:0.1});
+      node
+        .attr("transform", function (d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        })
     }
   });
-</script>
 
+  function dragstarted(d) {
+    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function dragended(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+  }
+
+</script>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 </body>
+
 </html>
