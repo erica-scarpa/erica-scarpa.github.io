@@ -1161,7 +1161,7 @@
     "group": 4
   },
   {
-    "id": "IV1",
+    "id": "IV Text 1",
     "group": 4
   },
   {
@@ -1205,7 +1205,7 @@
     "group": 5
   },
   {
-    "id": "IV10",
+    "id": "IV Text 10",
     "group": 5
   },
   {
@@ -1225,11 +1225,11 @@
     "group": 5
   },
   {
-    "id": "IV11",
+    "id": "IV Text 11",
     "group": 5
   },
   {
-    "id": "IV12",
+    "id": "IV Text 12",
     "group": 5
   },
   {
@@ -6007,207 +6007,207 @@
   },
   {
     "source": "En-na-il",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Ga-nu-LUM",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "GABA-da-mu",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Gi-ra-ma-lik",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "GIBIL-ma-lik",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Ḫa-ra-ì",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Íl-gú-uš-ti",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Ìr-am6-ma-lik",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Ìr-NI-ba",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Iš11-da-mu",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Iš11-gi-bar-zú",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Iš-ru12-ut",
-    "target": "IV1",
+    "target": "IV Text 1",
     "value": 1
   },
   {
     "source": "Bù-gi-su",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "En-na-il",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "I-bí-šum",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "I-rí-gú",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "Ig-na-da-ar",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 2
   },
   {
     "source": "Íl-gú-uš-ti",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "Iš-ru12-ut",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "Kùn-da-ba-an",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "Ti-ti-na",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "ʾÀ-téš",
-    "target": "IV10",
+    "target": "IV Text 10",
     "value": 1
   },
   {
     "source": "Bù-gi-su",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "En-na-il",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "I-bí-šum",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "I-rí-gú",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "Ig-na-da-ar",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 2
   },
   {
     "source": "Íl-gú-uš-ti",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "Iš-ru12-ut",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "Kùn-da-ba-an",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "Ù-ti",
-    "target": "IV11",
+    "target": "IV Text 11",
     "value": 1
   },
   {
     "source": "Bù-gi-su",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "En-na-il",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "I-rí-gú",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "Ig-na-da-ar",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 2
   },
   {
     "source": "Íl-gú-uš-ti",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "Iš-ru12-ut",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "Kùn-da-ba-an",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "Ù-ti",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "ugula",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
     "source": "ʾÀ-téš",
-    "target": "IV12",
+    "target": "IV Text 12",
     "value": 1
   },
   {
