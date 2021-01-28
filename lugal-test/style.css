@@ -15,7 +15,7 @@ html,body {
     bottom: 30;
     left: 0;
     right: 0;
-    position: absolute;
+   /* position: absolute; */
   }
 
 .bd-placeholder-img {
@@ -49,13 +49,10 @@ html,body {
 
 .card {
   padding-top: 10px;
-  padding-left: 10px;
+  padding-left: 0px;
   background-color:#ffffff;
   color:#000000;
 }
-
-
-
 
 
 .hr{margin:5px 0;}
@@ -63,25 +60,4 @@ html,body {
 .accordion-toggle{
     background:rgb(248, 251, 252);
 		
-}
-
-.accordion-toggle:hover{
-	text-decoration: none;
-	
-}
-
-.accordion-heading .accordion-toggle {
-    display: block;
-    padding: 8px 15px;
-}
-
-
-
-.selectStyle{
-	width:46%; float: left; margin-right: 8%;
-}
-
-
-.accordion-group{
-	margin-bottom:20px;
 }
