@@ -8,9 +8,9 @@
     "text": "Erica Scarpa"
   },
   "text": {
-    "more": "a",
-    "intro": "a",
-    "title": "Lugal Network"
+    "more": "",
+    "intro": "This graph is a visual representation of the data published in Archi 2000. Nodes represent the proper names of the lugals or the mu-DU documents in which their appear according to the chronology established by Archi 2000: whenever a lord is mentioned, he is connected to the text by a link.",
+    "title": "About this graph"
   },
   "legend": {
     "edgeLabel": "Occurrence",
