@@ -3,6 +3,17 @@ title: Talks
 permalink: /talks/
 ---
 
+### The Reconstruction of Eblaite Society Based on the Written Record: Between Traditional and Innovative approaches (Syria, 24<sup>th</sup> cent. BCE)
+
+#### *Research Seminars of the Subject Group for Egyptology and Ancient Near Eastern Studies at the Faculty of Oriental Studies* (*EANES*) 
+
+February 2<sup>nd</sup> 2021, University of Oxford
+
+![](/assets/images/reconstruction-eblaite-society.jpg)
+
+The 3,500-odd cuneiform tablets, discovered at Ebla between 1974 and 1976 by the Italian Archeological Mission to Syria, offer an insight into the society, economy and culture of a city whose name was still remembered by Mesopotamian rulers decades after its destruction. These documents were used by Eblaite scribes to keep record of thousands of events involving persons from all over the area under the city's control and beyond, such as military campaigns, funerals, celebrations, political agreements, weddings, pilgrimages, just to name a few. In fact, most tablets are of administrative nature, but lexical compositions and diplomatic correspondence can also be found. This immense documentation, however, has also been the greatest obstacle to a holistic approach to the study of Eblaite society. From the outset, scholars have started deciphering Eblaite language, characterised by the compresence of Sumerian and Semitic terms: the scribes of the Archives employed an administrative lexis full of numerical and textual metaphors which can only be understood from the context in which it was used. As a consequence, the deep and intricate network of relationships reflected in the texts cannot be analysed using a selected number of documents or through logic-tight compartments: with few exceptions, no attempt has been made thus far to reconstruct the model of the society that existed during the Age of the Archives. The aim of my doctoral research was to outline a model of Eblaite society through the analysis of textual patterns associated with seventy-nine keywords related to professions, functions, and social roles. In this presentation, I shall describe the research questions that led me to define a methodological and theoretical framework when dealing with the complexity of the Eblaite corpus. Combining a traditional philological approach with digital techniques, this investigation has underscored the existence of several social groups, highlighting substantial relational dynamics between them, and offering new interpretive possibilities. I shall demonstrate the effectiveness of such approach through a case-study referred to apparently unrelated historical figures.
+
+<hr>
 
 ### Don’t Fear, Don’t Trust: Some Methodological Considerations on Data Mining and Data Visualization Applied to Cuneiform Sources
 

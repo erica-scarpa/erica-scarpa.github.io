@@ -27,8 +27,9 @@ exclude: true
 
 ### Conferenze
 
+* «The Reconstruction of Eblaite Society Based on the Written Record: Between Traditional and Innovative approaches (Syria, 24<sup>th</sup> cent. BCE)».  *Research Seminars of the Subject Group for Egyptology and Ancient Near Eastern Studies at the Faculty of Oriental Studies* (*EANES*) (2 febbraio 2021, University of Oxford)
 * «Don’t Fear, Don’t Trust: Some Methodological Considerations on Data Mining and Data Visualization Applied to Cuneiform Sources». *Thinking Digital in Cuneiform Studies: Methods, Problems, Perspectives* (27-28 marzo, Università Ca' Foscari Venezia) (<a href="https://www.academia.edu/36277849/_Don_t_Fear_Don_t_Trust_Some_Methodological_Considerations_on_Data_Mining_and_Data_Visualization_Applied_to_Cuneiform_Sources_._Thinking_Digital_in_Cuneiform_Studies_Methods_Problems_Perspectives_March_27th-28th_Ca_Foscari_University_of_Venice_">Link</a>).
-* «The maškim Network». LXIII Rencontre Assyriologique Internationale, *Dealing with Antiquity – Past, Present, and Future* (24-28 luglio 2017, Philipps-Universität, Marburgo) (<a href="https://www.academia.edu/34084531/_The_maškim_Network_._LXIII_Rencontre_Assyriologique_Internationale_Dealing_with_Antiquity_Past_Present_and_Future_July_24th-28th_2017_Philipps-Universität_Marburg_">Link</a>).
+* «The maškim Network». LXIII Rencontre Assyriologique Internationale, *Dealing with Antiquity – Past, Present, and Future* (24-28 luglio 2017, Philipps-Universität, Marburg) (<a href="https://www.academia.edu/34084531/_The_maškim_Network_._LXIII_Rencontre_Assyriologique_Internationale_Dealing_with_Antiquity_Past_Present_and_Future_July_24th-28th_2017_Philipps-Universität_Marburg_">Link</a>).
 
 ### Didattica
 
