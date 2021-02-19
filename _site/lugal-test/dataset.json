@@ -1,0 +1,6619 @@
+{
+  "nodes": [
+   {
+    "id": "A-KA-LUM",
+    "group": 0
+  },
+  {
+    "id": "1a1",
+    "group": 0
+  },
+  {
+    "id": "Dar-mi-a",
+    "group": 0
+  },
+  {
+    "id": "I-bí-zi-kir",
+    "group": 0
+  },
+  {
+    "id": "I-rí-gú-um",
+    "group": 0
+  },
+  {
+    "id": "I-ti-ga-mi-iš",
+    "group": 0
+  },
+  {
+    "id": "Ib-u9-mu-ud",
+    "group": 0
+  },
+  {
+    "id": "Ig-na-da-mu",
+    "group": 0
+  },
+  {
+    "id": "Ìr-kab-ar",
+    "group": 0
+  },
+  {
+    "id": "Iš11LAM-zi",
+    "group": 0
+  },
+  {
+    "id": "Iš11LAM-zi-da-mu",
+    "group": 0
+  },
+  {
+    "id": "LAM-da-mu",
+    "group": 0
+  },
+  {
+    "id": "Sá-gu-si",
+    "group": 0
+  },
+  {
+    "id": "Ti-ir",
+    "group": 0
+  },
+  {
+    "id": "Za-x-x-mu",
+    "group": 0
+  },
+  {
+    "id": "1a10",
+    "group": 0
+  },
+  {
+    "id": "1a11",
+    "group": 0
+  },
+  {
+    "id": "Du-nu-si-ki",
+    "group": 0
+  },
+  {
+    "id": "éI-gi",
+    "group": 0
+  },
+  {
+    "id": "éIšxLAM-da-mu",
+    "group": 0
+  },
+  {
+    "id": "I-rí-gú-ú",
+    "group": 0
+  },
+  {
+    "id": "In-na-zu-ra",
+    "group": 0
+  },
+  {
+    "id": "IšxLAM-gi",
+    "group": 0
+  },
+  {
+    "id": "IšxLAM-zi-da-mu",
+    "group": 0
+  },
+  {
+    "id": "A-da-mu",
+    "group": 0
+  },
+  {
+    "id": "I-rí-gú-nu",
+    "group": 0
+  },
+  {
+    "id": "ŠUBUR",
+    "group": 0
+  },
+  {
+    "id": "1a13",
+    "group": 0
+  },
+  {
+    "id": "Du-na-sa-gi",
+    "group": 0
+  },
+  {
+    "id": "Gi-li-im",
+    "group": 0
+  },
+  {
+    "id": "Íl-zi",
+    "group": 0
+  },
+  {
+    "id": "Íl-zi-da-mu",
+    "group": 0
+  },
+  {
+    "id": "La-da-at",
+    "group": 0
+  },
+  {
+    "id": "ʾÀ-gi",
+    "group": 0
+  },
+  {
+    "id": "1a14",
+    "group": 0
+  },
+  {
+    "id": "Ḫu-mi-lu",
+    "group": 0
+  },
+  {
+    "id": "1a15",
+    "group": 0
+  },
+  {
+    "id": "En-na-da-mu",
+    "group": 0
+  },
+  {
+    "id": "Ga-da-mu",
+    "group": 0
+  },
+  {
+    "id": "Gi-gi",
+    "group": 0
+  },
+  {
+    "id": "Ib-",
+    "group": 0
+  },
+  {
+    "id": "1a16",
+    "group": 0
+  },
+  {
+    "id": "1a17",
+    "group": 0
+  },
+  {
+    "id": "IšxLAM-zi",
+    "group": 0
+  },
+  {
+    "id": "1a19",
+    "group": 0
+  },
+  {
+    "id": "EN-da-za",
+    "group": 0
+  },
+  {
+    "id": "I-rí-ig",
+    "group": 0
+  },
+  {
+    "id": "Iš-da-má",
+    "group": 0
+  },
+  {
+    "id": "1a2",
+    "group": 0
+  },
+  {
+    "id": "Du-bí-šum",
+    "group": 0
+  },
+  {
+    "id": "1a20",
+    "group": 0
+  },
+  {
+    "id": "1a22",
+    "group": 0
+  },
+  {
+    "id": "ʾÀ-i-šar",
+    "group": 0
+  },
+  {
+    "id": "1a23",
+    "group": 0
+  },
+  {
+    "id": "1a3",
+    "group": 0
+  },
+  {
+    "id": "A-na-ma",
+    "group": 0
+  },
+  {
+    "id": "1a4",
+    "group": 0
+  },
+  {
+    "id": "1a5",
+    "group": 0
+  },
+  {
+    "id": "1b1",
+    "group": 0
+  },
+  {
+    "id": "1b12",
+    "group": 0
+  },
+  {
+    "id": "1b15",
+    "group": 0
+  },
+  {
+    "id": "Ìr-da-",
+    "group": 0
+  },
+  {
+    "id": "1b16",
+    "group": 0
+  },
+  {
+    "id": "1b2",
+    "group": 0
+  },
+  {
+    "id": "1b3",
+    "group": 0
+  },
+  {
+    "id": "1b4",
+    "group": 0
+  },
+  {
+    "id": "1b5",
+    "group": 0
+  },
+  {
+    "id": "EN-bù-ma-lik",
+    "group": 0
+  },
+  {
+    "id": "Ig-da-raki",
+    "group": 0
+  },
+  {
+    "id": "La-ti-a-at",
+    "group": 0
+  },
+  {
+    "id": "Nu-x-ma",
+    "group": 0
+  },
+  {
+    "id": "1b6",
+    "group": 0
+  },
+  {
+    "id": "1b7",
+    "group": 0
+  },
+  {
+    "id": "ʾÀ-",
+    "group": 0
+  },
+  {
+    "id": "IšxLAM-da-mu",
+    "group": 1
+  },
+  {
+    "id": "Ga-ma-da-mu",
+    "group": 1
+  },
+  {
+    "id": "Ki-ti-ir",
+    "group": 1
+  },
+  {
+    "id": "Ki-li-im",
+    "group": 1
+  },
+  {
+    "id": "A-mu-ti",
+    "group": 1
+  },
+  {
+    "id": "1a6",
+    "group": 1
+  },
+  {
+    "id": "Ga-da-ba-an",
+    "group": 1
+  },
+  {
+    "id": "I-mu-da-mu",
+    "group": 1
+  },
+  {
+    "id": "Ib-u9-da-mu",
+    "group": 1
+  },
+  {
+    "id": "Íl-uš-li-im",
+    "group": 1
+  },
+  {
+    "id": "I-gú-uš",
+    "group": 1
+  },
+  {
+    "id": "BAD-da-mu",
+    "group": 1
+  },
+  {
+    "id": "A-ma-lik",
+    "group": 1
+  },
+  {
+    "id": "1b17",
+    "group": 1
+  },
+  {
+    "id": "enḪa-zu-wa-anki",
+    "group": 1
+  },
+  {
+    "id": "EN-ga-u9",
+    "group": 1
+  },
+  {
+    "id": "EN-gi-iš",
+    "group": 1
+  },
+  {
+    "id": "EN-mar",
+    "group": 1
+  },
+  {
+    "id": "Gú-ra-rabki",
+    "group": 1
+  },
+  {
+    "id": "Gur-am6-da-mu",
+    "group": 1
+  },
+  {
+    "id": "I-gú-uš-li-im",
+    "group": 1
+  },
+  {
+    "id": "Ib-su-ul-da-mu",
+    "group": 1
+  },
+  {
+    "id": "In-gàr-du",
+    "group": 1
+  },
+  {
+    "id": "Ku-šar",
+    "group": 1
+  },
+  {
+    "id": "Kùn/In-zé",
+    "group": 1
+  },
+  {
+    "id": "Za-a-ti",
+    "group": 1
+  },
+  {
+    "id": "1b8",
+    "group": 1
+  },
+  {
+    "id": "Dam-da-il",
+    "group": 1
+  },
+  {
+    "id": "EN-gi-iš-ar",
+    "group": 1
+  },
+  {
+    "id": "EN-zi-li-im",
+    "group": 1
+  },
+  {
+    "id": "EN-zi-ma-lik",
+    "group": 1
+  },
+  {
+    "id": "I-bí-da-mu",
+    "group": 1
+  },
+  {
+    "id": "I-mu-ud-da-mu",
+    "group": 1
+  },
+  {
+    "id": "I-rí-ig-zé",
+    "group": 1
+  },
+  {
+    "id": "I-rí-in-na-ba",
+    "group": 1
+  },
+  {
+    "id": "I-rí-su",
+    "group": 1
+  },
+  {
+    "id": "I-ti-gi-li-im",
+    "group": 1
+  },
+  {
+    "id": "I-ti-in-NI-LAM",
+    "group": 1
+  },
+  {
+    "id": "I-ti-NE",
+    "group": 1
+  },
+  {
+    "id": "Ib-dur-a-ru12",
+    "group": 1
+  },
+  {
+    "id": "Ìr-ib-ga-ar",
+    "group": 1
+  },
+  {
+    "id": "Iš-da-máḫ",
+    "group": 1
+  },
+  {
+    "id": "Li-ba-du",
+    "group": 1
+  },
+  {
+    "id": "Li-kam4",
+    "group": 1
+  },
+  {
+    "id": "Ša-mu-um",
+    "group": 1
+  },
+  {
+    "id": "EN-bù-uš-li-im",
+    "group": 2
+  },
+  {
+    "id": "Ba-ḫa-ga",
+    "group": 2
+  },
+  {
+    "id": "A-bù",
+    "group": 2
+  },
+  {
+    "id": "1a12",
+    "group": 2
+  },
+  {
+    "id": "Ar-si-a-ḫa",
+    "group": 2
+  },
+  {
+    "id": "I-bax-zi-nu",
+    "group": 2
+  },
+  {
+    "id": "Ib-rí-um",
+    "group": 2
+  },
+  {
+    "id": "Ìr-da-ma-lik",
+    "group": 2
+  },
+  {
+    "id": "Za-za-LUM",
+    "group": 2
+  },
+  {
+    "id": "Ar-ru12-gúm",
+    "group": 2
+  },
+  {
+    "id": "En-na-il",
+    "group": 2
+  },
+  {
+    "id": "1a18",
+    "group": 2
+  },
+  {
+    "id": "A-mi-du",
+    "group": 2
+  },
+  {
+    "id": "A-ʾà-lu",
+    "group": 2
+  },
+  {
+    "id": "Iš-má-da-mu",
+    "group": 2
+  },
+  {
+    "id": "Na-am6-da-mu",
+    "group": 2
+  },
+  {
+    "id": "Gú-gi-wa-an",
+    "group": 2
+  },
+  {
+    "id": "1a21",
+    "group": 2
+  },
+  {
+    "id": "EN-mar-ru12",
+    "group": 2
+  },
+  {
+    "id": "I-da-il",
+    "group": 2
+  },
+  {
+    "id": "Iš11-a-ma-lik",
+    "group": 2
+  },
+  {
+    "id": "Iš11-gú-ma",
+    "group": 2
+  },
+  {
+    "id": "Zé-kam4",
+    "group": 2
+  },
+  {
+    "id": "A-mi-ì",
+    "group": 2
+  },
+  {
+    "id": "1a24",
+    "group": 2
+  },
+  {
+    "id": "Ar-",
+    "group": 2
+  },
+  {
+    "id": "éSá-gu-si",
+    "group": 2
+  },
+  {
+    "id": "En-na-BAD",
+    "group": 2
+  },
+  {
+    "id": "Ib-dur-i-šar",
+    "group": 2
+  },
+  {
+    "id": "Ìr-am6-",
+    "group": 2
+  },
+  {
+    "id": "Kùn-zé",
+    "group": 2
+  },
+  {
+    "id": "Zi-ba-da",
+    "group": 2
+  },
+  {
+    "id": "1a7",
+    "group": 2
+  },
+  {
+    "id": "Ìr-",
+    "group": 2
+  },
+  {
+    "id": "Li-ba-kam4",
+    "group": 2
+  },
+  {
+    "id": "1a8",
+    "group": 2
+  },
+  {
+    "id": "IšxLAM-zi-da-ar",
+    "group": 2
+  },
+  {
+    "id": "1a9",
+    "group": 2
+  },
+  {
+    "id": "A-ʾà-luki",
+    "group": 2
+  },
+  {
+    "id": "Dub-da-ar",
+    "group": 2
+  },
+  {
+    "id": "Ig-rí-iš",
+    "group": 2
+  },
+  {
+    "id": "IsxLAM-a-il",
+    "group": 2
+  },
+  {
+    "id": "Na-ma-da-mu",
+    "group": 2
+  },
+  {
+    "id": "1b14",
+    "group": 2
+  },
+  {
+    "id": "Da-zi-ma-ad",
+    "group": 2
+  },
+  {
+    "id": "EN-zi-da-ar",
+    "group": 2
+  },
+  {
+    "id": "Ìr-am6-da-mu",
+    "group": 2
+  },
+  {
+    "id": "Iš-má-gar-du",
+    "group": 2
+  },
+  {
+    "id": "Kam4-da-mu",
+    "group": 2
+  },
+  {
+    "id": "Kùn-da-ar",
+    "group": 2
+  },
+  {
+    "id": "Ša-ù-um",
+    "group": 2
+  },
+  {
+    "id": "Sag-da-kam4",
+    "group": 2
+  },
+  {
+    "id": "1b18",
+    "group": 2
+  },
+  {
+    "id": "1b20",
+    "group": 2
+  },
+  {
+    "id": "II1",
+    "group": 2
+  },
+  {
+    "id": "II2",
+    "group": 2
+  },
+  {
+    "id": "II3",
+    "group": 2
+  },
+  {
+    "id": "Dab6-da-ar",
+    "group": 2
+  },
+  {
+    "id": "II4",
+    "group": 2
+  },
+  {
+    "id": "III1",
+    "group": 2
+  },
+  {
+    "id": "éAr-si-a-ḫa",
+    "group": 2
+  },
+  {
+    "id": "éIn-ma-liklúÍl-zi-da-mu",
+    "group": 2
+  },
+  {
+    "id": "éÌr-",
+    "group": 2
+  },
+  {
+    "id": "éIš-má-da-mu",
+    "group": 2
+  },
+  {
+    "id": "éŠUBUR",
+    "group": 2
+  },
+  {
+    "id": "Ib-du-ra",
+    "group": 2
+  },
+  {
+    "id": "Iš-má-il",
+    "group": 2
+  },
+  {
+    "id": "GIBIL-za-il",
+    "group": 3
+  },
+  {
+    "id": "Šu-ma-lik",
+    "group": 3
+  },
+  {
+    "id": "IšxLAM-gi-da-ar",
+    "group": 3
+  },
+  {
+    "id": "A-gi-NI",
+    "group": 3
+  },
+  {
+    "id": "1b10",
+    "group": 3
+  },
+  {
+    "id": "Da-gàr-za-abki",
+    "group": 3
+  },
+  {
+    "id": "Du-zi-kir",
+    "group": 3
+  },
+  {
+    "id": "En-na-ma-lik",
+    "group": 3
+  },
+  {
+    "id": "EN-šum",
+    "group": 3
+  },
+  {
+    "id": "I-bí-da-si-in",
+    "group": 3
+  },
+  {
+    "id": "I-da-ni-ki-mu",
+    "group": 3
+  },
+  {
+    "id": "I-ib-ma-lik",
+    "group": 3
+  },
+  {
+    "id": "I-ti-ba-li-im",
+    "group": 3
+  },
+  {
+    "id": "Ib-dur-il",
+    "group": 3
+  },
+  {
+    "id": "Ib-gi-da-mu",
+    "group": 3
+  },
+  {
+    "id": "In-zé",
+    "group": 3
+  },
+  {
+    "id": "Na-su-um",
+    "group": 3
+  },
+  {
+    "id": "Puzur4-ra-ma-lik",
+    "group": 3
+  },
+  {
+    "id": "Zi-ba-LUM",
+    "group": 3
+  },
+  {
+    "id": "1b11",
+    "group": 3
+  },
+  {
+    "id": "IšxLAM-gi-da-mu",
+    "group": 3
+  },
+  {
+    "id": "KU-tu",
+    "group": 3
+  },
+  {
+    "id": "Kùn-a-NE-NAM",
+    "group": 3
+  },
+  {
+    "id": "Li-ba-at",
+    "group": 3
+  },
+  {
+    "id": "Na-a-ma",
+    "group": 3
+  },
+  {
+    "id": "NE-zi-ma-a-ḫa",
+    "group": 3
+  },
+  {
+    "id": "Si-da",
+    "group": 3
+  },
+  {
+    "id": "ʾÀ-wa-ra",
+    "group": 3
+  },
+  {
+    "id": "1b13",
+    "group": 3
+  },
+  {
+    "id": "EN-ma-lik",
+    "group": 3
+  },
+  {
+    "id": "I-du-ba",
+    "group": 3
+  },
+  {
+    "id": "I-šar",
+    "group": 3
+  },
+  {
+    "id": "Ib-gú-i-sar",
+    "group": 3
+  },
+  {
+    "id": "Ìl-ba-um",
+    "group": 3
+  },
+  {
+    "id": "Ìr-ga-bù",
+    "group": 3
+  },
+  {
+    "id": "GIBIL",
+    "group": 3
+  },
+  {
+    "id": "A-BAD",
+    "group": 3
+  },
+  {
+    "id": "1b19",
+    "group": 3
+  },
+  {
+    "id": "EN-ar-ma",
+    "group": 3
+  },
+  {
+    "id": "Ib-da-ra-ak",
+    "group": 3
+  },
+  {
+    "id": "Iš-ra-il",
+    "group": 3
+  },
+  {
+    "id": "IšxLAM-a-ma-lik",
+    "group": 3
+  },
+  {
+    "id": "Šum-ma-il",
+    "group": 3
+  },
+  {
+    "id": "Zu-zi-da",
+    "group": 3
+  },
+  {
+    "id": "I-mur-li-im",
+    "group": 3
+  },
+  {
+    "id": "1b9",
+    "group": 3
+  },
+  {
+    "id": "Gi-ti-ir",
+    "group": 3
+  },
+  {
+    "id": "Ìr-NI-ba",
+    "group": 4
+  },
+  {
+    "id": "Ig-rí-sa",
+    "group": 4
+  },
+  {
+    "id": "Rí-ì-ma-lik",
+    "group": 4
+  },
+  {
+    "id": "Ḫa-ra-ì",
+    "group": 4
+  },
+  {
+    "id": "Iš11-gi-ba-ìr",
+    "group": 4
+  },
+  {
+    "id": "I-rí-ig-da-mu",
+    "group": 4
+  },
+  {
+    "id": "Du-bí",
+    "group": 4
+  },
+  {
+    "id": "Ìr-am6-da-ar",
+    "group": 4
+  },
+  {
+    "id": "Nab-ḫa-il",
+    "group": 4
+  },
+  {
+    "id": "Puzur4-ra-ḫa-al6",
+    "group": 4
+  },
+  {
+    "id": "A-zú-ma",
+    "group": 4
+  },
+  {
+    "id": "III10",
+    "group": 4
+  },
+  {
+    "id": "En-na-ni-il",
+    "group": 4
+  },
+  {
+    "id": "GIBIL-ma-lik",
+    "group": 4
+  },
+  {
+    "id": "Ḫáb-ra-ar",
+    "group": 4
+  },
+  {
+    "id": "Ìr-am6-ma-lik",
+    "group": 4
+  },
+  {
+    "id": "Iš11-da-mu",
+    "group": 4
+  },
+  {
+    "id": "III11",
+    "group": 4
+  },
+  {
+    "id": "III12",
+    "group": 4
+  },
+  {
+    "id": "Íl-e-i-šar",
+    "group": 4
+  },
+  {
+    "id": "A-zú-mu",
+    "group": 4
+  },
+  {
+    "id": "III13",
+    "group": 4
+  },
+  {
+    "id": "III14",
+    "group": 4
+  },
+  {
+    "id": "III15",
+    "group": 4
+  },
+  {
+    "id": "III16",
+    "group": 4
+  },
+  {
+    "id": "Gi-ra-ma-lik",
+    "group": 4
+  },
+  {
+    "id": "III17",
+    "group": 4
+  },
+  {
+    "id": "III18",
+    "group": 4
+  },
+  {
+    "id": "TÚGGABA",
+    "group": 4
+  },
+  {
+    "id": "III2",
+    "group": 4
+  },
+  {
+    "id": "EN-a-mar",
+    "group": 4
+  },
+  {
+    "id": "III3",
+    "group": 4
+  },
+  {
+    "id": "EN-zu-mu",
+    "group": 4
+  },
+  {
+    "id": "III4",
+    "group": 4
+  },
+  {
+    "id": "I-bí-um",
+    "group": 4
+  },
+  {
+    "id": "A-zu-mu",
+    "group": 4
+  },
+  {
+    "id": "III5",
+    "group": 4
+  },
+  {
+    "id": "III6",
+    "group": 4
+  },
+  {
+    "id": "III7",
+    "group": 4
+  },
+  {
+    "id": "III8",
+    "group": 4
+  },
+  {
+    "id": "III9",
+    "group": 4
+  },
+  {
+    "id": "Iš11-a-NE-",
+    "group": 4
+  },
+  {
+    "id": "II1a2",
+    "group": 4
+  },
+  {
+    "id": "I-rí-ig-ì",
+    "group": 4
+  },
+  {
+    "id": "In-ti",
+    "group": 4
+  },
+  {
+    "id": "Za-",
+    "group": 4
+  },
+  {
+    "id": "A-mur-da-mu",
+    "group": 4
+  },
+  {
+    "id": "II1a3",
+    "group": 4
+  },
+  {
+    "id": "Ba-ga-ma",
+    "group": 4
+  },
+  {
+    "id": "Ḫa-zu-um",
+    "group": 4
+  },
+  {
+    "id": "Ib-NE-um",
+    "group": 4
+  },
+  {
+    "id": "In-ma-lik",
+    "group": 4
+  },
+  {
+    "id": "Za-ba-rúm",
+    "group": 4
+  },
+  {
+    "id": "II1a4",
+    "group": 4
+  },
+  {
+    "id": "GABA-TÚG",
+    "group": 4
+  },
+  {
+    "id": "Iš11-gi-bar-zú",
+    "group": 4
+  },
+  {
+    "id": "IšxLAM-gi-ba-ìr",
+    "group": 4
+  },
+  {
+    "id": "IV Text 1",
+    "group": 4
+  },
+  {
+    "id": "Ga-nu-LUM",
+    "group": 4
+  },
+  {
+    "id": "IV2",
+    "group": 4
+  },
+  {
+    "id": "Zi-ra-ma-lik",
+    "group": 4
+  },
+  {
+    "id": "Ti-ti-na",
+    "group": 5
+  },
+  {
+    "id": "I-bí-šum",
+    "group": 5
+  },
+  {
+    "id": "Íl-gú-uš-ti",
+    "group": 5
+  },
+  {
+    "id": "GABA-da-mu",
+    "group": 5
+  },
+  {
+    "id": "Iš-ru12-ut",
+    "group": 5
+  },
+  {
+    "id": "Ù-ti",
+    "group": 5
+  },
+  {
+    "id": "Bù-gi-su",
+    "group": 5
+  },
+  {
+    "id": "IV Text 10",
+    "group": 5
+  },
+  {
+    "id": "I-rí-gú",
+    "group": 5
+  },
+  {
+    "id": "Ig-na-da-ar",
+    "group": 5
+  },
+  {
+    "id": "Kùn-da-ba-an",
+    "group": 5
+  },
+  {
+    "id": "ʾÀ-téš",
+    "group": 5
+  },
+  {
+    "id": "IV Text 11",
+    "group": 5
+  },
+  {
+    "id": "IV Text 12",
+    "group": 5
+  },
+  {
+    "id": "ugula",
+    "group": 5
+  },
+  {
+    "id": "IV3",
+    "group": 5
+  },
+  {
+    "id": "Ìr-NE",
+    "group": 5
+  },
+  {
+    "id": "IV4",
+    "group": 5
+  },
+  {
+    "id": "IV5",
+    "group": 5
+  },
+  {
+    "id": "IV6",
+    "group": 5
+  },
+  {
+    "id": "IV7",
+    "group": 5
+  },
+  {
+    "id": "IV8",
+    "group": 5
+  },
+  {
+    "id": "IV9",
+    "group": 5
+  }
+  ],
+  "links": [
+  {
+    "source": "A-KA-LUM",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-um",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Iš11LAM-zi",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Iš11LAM-zi-da-mu",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "LAM-da-mu",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "Za-x-x-mu",
+    "target": "1a1",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a10",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a10",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a10",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a10",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a10",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a10",
+    "value": 1
+  },
+  {
+    "source": "A-KA-LUM",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Du-nu-si-ki",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "éI-gi",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "éIšxLAM-da-mu",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-ú",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "In-na-zu-ra",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-gi",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a11",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Za-za-LUM",
+    "target": "1a12",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Du-na-sa-gi",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Gi-li-im",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-gi",
+    "target": "1a13",
+    "value": 1
+  },
+  {
+    "source": "A-KA-LUM",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "Ḫu-mi-lu",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-ú",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-da-mu",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a14",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "En-na-da-mu",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ga-da-mu",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ib-",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-gi",
+    "target": "1a15",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-za-il",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a16",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-ú",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a17",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "A-mi-du",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "A-ʾà-lu",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "Na-am6-da-mu",
+    "target": "1a18",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "EN-da-za",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a19",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1a2",
+    "value": 1
+  },
+  {
+    "source": "EN-da-za",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a20",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "EN-mar-ru12",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Ga-ma-da-mu",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "I-da-il",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Iš11-a-ma-lik",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gú-ma",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Šu-ma-lik",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "Zé-kam4",
+    "target": "1a21",
+    "value": 1
+  },
+  {
+    "source": "A-KA-LUM",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-da-mu",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-i-šar",
+    "target": "1a22",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a23",
+    "value": 2
+  },
+  {
+    "source": "IšxLAM-gi-da-ar",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Ki-ti-ir",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a23",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ar-",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1a24",
+    "value": 2
+  },
+  {
+    "source": "éSá-gu-si",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "En-na-BAD",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "1a24",
+    "value": 2
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "1a24",
+    "value": 2
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "1a24",
+    "value": 2
+  },
+  {
+    "source": "Kùn-zé",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "Zi-ba-da",
+    "target": "1a24",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "A-na-ma",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "En-na-BAD",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ga-da-mu",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Gi-li-im",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-gi",
+    "target": "1a3",
+    "value": 1
+  },
+  {
+    "source": "Ar-",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a4",
+    "value": 2
+  },
+  {
+    "source": "Ga-da-mu",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1a4",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "Ki-li-im",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-gi",
+    "target": "1a5",
+    "value": 1
+  },
+  {
+    "source": "A-mu-ti",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Ga-da-ba-an",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Ga-ma-da-mu",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "I-mu-da-mu",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-da-mu",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Íl-uš-li-im",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a6",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1a7",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a7",
+    "value": 2
+  },
+  {
+    "source": "Ìr-",
+    "target": "1a7",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1a7",
+    "value": 1
+  },
+  {
+    "source": "Li-ba-kam4",
+    "target": "1a7",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1a7",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "En-na-BAD",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1a8",
+    "value": 2
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-ar",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "Kùn-zé",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1a8",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "A-ʾà-luki",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Dub-da-ar",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-iš",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "IsxLAM-a-il",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Na-ma-da-mu",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1a9",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1b1",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1b1",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1b1",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b1",
+    "value": 1
+  },
+  {
+    "source": "A-gi-NI",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "A-mu-ti",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Da-gàr-za-abki",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Du-zi-kir",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "En-na-ma-lik",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "EN-šum",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-za-il",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "I-bí-da-si-in",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "I-da-ni-ki-mu",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "I-gú-uš",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "I-ib-ma-lik",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ba-li-im",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-il",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Ib-gi-da-mu",
+    "target": "1b10",
+    "value": 2
+  },
+  {
+    "source": "In-zé",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Na-su-um",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Puzur4-ra-ma-lik",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Šu-ma-lik",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "Zi-ba-LUM",
+    "target": "1b10",
+    "value": 1
+  },
+  {
+    "source": "A-gi-NI",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "A-KA-LUM",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Du-na-sa-gi",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Du-zi-kir",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "En-na-BAD",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "En-na-da-mu",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "1b11",
+    "value": 2
+  },
+  {
+    "source": "Ib-gi-da-mu",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-da-mu",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-gi-da-mu",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "KU-tu",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Kùn-a-NE-NAM",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Li-ba-at",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Na-a-ma",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "NE-zi-ma-a-ḫa",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Si-da",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Šu-ma-lik",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1b11",
+    "value": 2
+  },
+  {
+    "source": "ʾÀ-gi",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-wa-ra",
+    "target": "1b11",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Ib-",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b12",
+    "value": 1
+  },
+  {
+    "source": "A-mu-ti",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "EN-ma-lik",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "I-du-ba",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "I-ib-ma-lik",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "I-mu-da-mu",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "I-šar",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "Ib-gi-da-mu",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "Ib-gú-i-sar",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "Ìl-ba-um",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "Ìr-ga-bù",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-gi-da-ar",
+    "target": "1b13",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "1b14",
+    "value": 5
+  },
+  {
+    "source": "A-ʾà-lu",
+    "target": "1b14",
+    "value": 4
+  },
+  {
+    "source": "Ar-",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1b14",
+    "value": 3
+  },
+  {
+    "source": "Da-zi-ma-ad",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Dub-da-ar",
+    "target": "1b14",
+    "value": 5
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1b14",
+    "value": 2
+  },
+  {
+    "source": "EN-da-za",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b14",
+    "value": 5
+  },
+  {
+    "source": "EN-zi-da-ar",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1b14",
+    "value": 5
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1b14",
+    "value": 7
+  },
+  {
+    "source": "Ig-rí-iš",
+    "target": "1b14",
+    "value": 6
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "1b14",
+    "value": 4
+  },
+  {
+    "source": "Ìr-am6-da-mu",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "1b14",
+    "value": 4
+  },
+  {
+    "source": "Iš-má-gar-du",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Kam4-da-mu",
+    "target": "1b14",
+    "value": 2
+  },
+  {
+    "source": "KU-tu",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Kùn-da-ar",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Kùn-zé",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Na-ma-da-mu",
+    "target": "1b14",
+    "value": 3
+  },
+  {
+    "source": "Ša-ù-um",
+    "target": "1b14",
+    "value": 4
+  },
+  {
+    "source": "Sag-da-kam4",
+    "target": "1b14",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b14",
+    "value": 2
+  },
+  {
+    "source": "A-bù",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "BAD-da-mu",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "En-na-BAD",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "En-na-da-mu",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b15",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "EN-da-za",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1b16",
+    "value": 1
+  },
+  {
+    "source": "A-ma-lik",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "A-mu-ti",
+    "target": "1b17",
+    "value": 2
+  },
+  {
+    "source": "BAD-da-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "enḪa-zu-wa-anki",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "EN-ga-u9",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "EN-gi-iš",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "EN-mar",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ga-da-ba-an",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ga-ma-da-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "GIBIL",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Gú-ra-rabki",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Gur-am6-da-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "1b17",
+    "value": 3
+  },
+  {
+    "source": "I-da-ni-ki-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "I-gú-uš",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "I-gú-uš-li-im",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ib-su-ul-da-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "In-gàr-du",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-da-mu",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ki-li-im",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ki-ti-ir",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ku-šar",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Kùn/In-zé",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "Za-a-ti",
+    "target": "1b17",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "A-ʾà-lu",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-iš",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Na-am6-da-mu",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b18",
+    "value": 1
+  },
+  {
+    "source": "A-BAD",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "EN-ar-ma",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "I-da-ni-ki-mu",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Ib-da-ra-ak",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-da-ar",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Iš-ra-il",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-a-ma-lik",
+    "target": "1b19",
+    "value": 2
+  },
+  {
+    "source": "Puzur4-ra-ma-lik",
+    "target": "1b19",
+    "value": 2
+  },
+  {
+    "source": "Šum-ma-il",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Zu-zi-da",
+    "target": "1b19",
+    "value": 1
+  },
+  {
+    "source": "Du-bí-šum",
+    "target": "1b2",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1b2",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b2",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-gi-da-ar",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Za-za-LUM",
+    "target": "1b20",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1b3",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b3",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b4",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b4",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-da-mu",
+    "target": "1b4",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b4",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-ma-lik",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "EN-da-za",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-ú",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Ig-da-raki",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-má",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-zi-da-mu",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "La-ti-a-at",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Nu-x-ma",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "1b5",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b6",
+    "value": 1
+  },
+  {
+    "source": "A-da-mu",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Dar-mi-a",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Du-na-sa-gi",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "En-na-da-mu",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "En-na-ma-lik",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "I-ti-ga-mi-iš",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b7",
+    "value": 2
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi-da-mu",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "La-da-at",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Na-a-ma",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-",
+    "target": "1b7",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "A-KA-LUM",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "A-ma-lik",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Dam-da-il",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Du-zi-kir",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "EN-ga-u9",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "EN-gi-iš-ar",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "EN-zi-li-im",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "EN-zi-ma-lik",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-bí-da-mu",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-mu-ud-da-mu",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-mur-li-im",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-zé",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-in-na-ba",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-su",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-ti-gi-li-im",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-ti-in-NI-LAM",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "I-ti-NE",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-a-ru12",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ìr-ib-ga-ar",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Iš-da-máḫ",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "1b8",
+    "value": 2
+  },
+  {
+    "source": "IšxLAM-da-mu",
+    "target": "1b8",
+    "value": 2
+  },
+  {
+    "source": "Li-ba-du",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Li-kam4",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ša-mu-um",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "1b8",
+    "value": 2
+  },
+  {
+    "source": "Za-za-LUM",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-wa-ra",
+    "target": "1b8",
+    "value": 1
+  },
+  {
+    "source": "A-KA-LUM",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Du-zi-kir",
+    "target": "1b9",
+    "value": 2
+  },
+  {
+    "source": "Gi-gi",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Gi-ti-ir",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "GIBIL",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "I-bax-zi-nu",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "I-mur-li-im",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "I-šar",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Ib-u9-mu-ud",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-mu",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Íl-zi",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-wa-ra",
+    "target": "1b9",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "En-na-BAD",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "II1",
+    "value": 3
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú-nu",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-gi-da-mu",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "II1",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "II2",
+    "value": 3
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-gi-da-ar",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Kam4-da-mu",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Kùn-zé",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Na-am6-da-mu",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "II2",
+    "value": 1
+  },
+  {
+    "source": "A-ʾà-lu",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Dab6-da-ar",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "EN-bù-uš-li-im",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "II3",
+    "value": 2
+  },
+  {
+    "source": "Gú-gi-wa-an",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-iš",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "IšxLAM-a-ma-lik",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Kam4-da-mu",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Na-am6-da-mu",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "II3",
+    "value": 1
+  },
+  {
+    "source": "A-mi-ì",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "A-ʾà-lu",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Ar-ru12-gúm",
+    "target": "II4",
+    "value": 2
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Ba-ḫa-ga",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "II4",
+    "value": 2
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-da-mu",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Na-am6-da-mu",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "Ti-ir",
+    "target": "II4",
+    "value": 1
+  },
+  {
+    "source": "A-bù",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ar-si-a-ḫa",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "éAr-si-a-ḫa",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "éIn-ma-liklúÍl-zi-da-mu",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "éÌr-",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "éIš-má-da-mu",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "éŠUBUR",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ib-",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ib-du-ra",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "III1",
+    "value": 3
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-kab-ar",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Iš-má-il",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Puzur4-ra-ḫa-al6",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Sá-gu-si",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "ŠUBUR",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "Zi-ba-da",
+    "target": "III1",
+    "value": 1
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III10",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III10",
+    "value": 2
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III11",
+    "value": 1
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Íl-e-i-šar",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III12",
+    "value": 1
+  },
+  {
+    "source": "A-zú-mu",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III13",
+    "value": 1
+  },
+  {
+    "source": "A-zú-mu",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Íl-e-i-šar",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III14",
+    "value": 1
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Íl-e-i-šar",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III15",
+    "value": 1
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Gi-ra-ma-lik",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Íl-e-i-šar",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III16",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Gi-ra-ma-lik",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Íl-e-i-šar",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III17",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Gi-ra-ma-lik",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Íl-e-i-šar",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "TÚGGABA",
+    "target": "III18",
+    "value": 1
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "EN-a-mar",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III2",
+    "value": 2
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Puzur4-ra-ḫa-al6",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "Za-za-LUM",
+    "target": "III2",
+    "value": 1
+  },
+  {
+    "source": "EN-a-mar",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "EN-zu-mu",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Puzur4-ra-ḫa-al6",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III3",
+    "value": 1
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "EN-a-mar",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "I-bí-um",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Ib-dur-i-šar",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Puzur4-ra-ḫa-al6",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III4",
+    "value": 1
+  },
+  {
+    "source": "A-zu-mu",
+    "target": "III5",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III5",
+    "value": 2
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III5",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "III5",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III5",
+    "value": 2
+  },
+  {
+    "source": "Ìr-am6-da-ar",
+    "target": "III5",
+    "value": 1
+  },
+  {
+    "source": "Ìr-da-ma-lik",
+    "target": "III5",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III5",
+    "value": 2
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III5",
+    "value": 1
+  },
+  {
+    "source": "Puzur4-ra-ḫa-al6",
+    "target": "III5",
+    "value": 2
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III5",
+    "value": 2
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-da-ar",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III6",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III6",
+    "value": 2
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "III7",
+    "value": 2
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-da-ar",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III7",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III7",
+    "value": 2
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-da-ar",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III8",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III8",
+    "value": 2
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "En-na-ni-il",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Iš11-a-NE-",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "III9",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "III9",
+    "value": 2
+  },
+  {
+    "source": "A-zú-ma",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "II1a2",
+    "value": 2
+  },
+  {
+    "source": "EN-mar",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "I-bí-zi-kir",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-da-mu",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "I-rí-ig-ì",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Ig-rí-sa",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "In-ti",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Rí-ì-ma-lik",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "Za-",
+    "target": "II1a2",
+    "value": 1
+  },
+  {
+    "source": "A-mur-da-mu",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ba-ga-ma",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Du-bí",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Gi-ra-ma-lik",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-zu-um",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ḫáb-ra-ar",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ib-NE-um",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ib-rí-um",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "In-ma-lik",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-ba-ìr",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Nab-ḫa-il",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "Za-ba-rúm",
+    "target": "II1a3",
+    "value": 1
+  },
+  {
+    "source": "A-mur-da-mu",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "GABA-TÚG",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Gi-ra-ma-lik",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-zu-um",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "In-ti",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-bar-zú",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "II1a4",
+    "value": 2
+  },
+  {
+    "source": "IšxLAM-gi-ba-ìr",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Ki-ti-ir",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "Ù-ti",
+    "target": "II1a4",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Ga-nu-LUM",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Gi-ra-ma-lik",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-bar-zú",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV Text 1",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV Text 10",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "Kùn-da-ba-an",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-téš",
+    "target": "IV Text 10",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV Text 11",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "Kùn-da-ba-an",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "Ù-ti",
+    "target": "IV Text 11",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV Text 12",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "Kùn-da-ba-an",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "Ù-ti",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "ugula",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "ʾÀ-téš",
+    "target": "IV Text 12",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV2",
+    "value": 2
+  },
+  {
+    "source": "Ga-nu-LUM",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "GIBIL-ma-lik",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NI-ba",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Iš11-gi-bar-zú",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "Zi-ra-ma-lik",
+    "target": "IV2",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Ga-nu-LUM",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Ìr-NE",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Iš11-da-mu",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV3",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV4",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Ìr-am6-ma-lik",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV5",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV6",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV6",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV7",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV7",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV8",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV8",
+    "value": 1
+  },
+  {
+    "source": "Bù-gi-su",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "En-na-il",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "GABA-da-mu",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "Ḫa-ra-ì",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "I-bí-šum",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "I-rí-gú",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "Ig-na-da-ar",
+    "target": "IV9",
+    "value": 2
+  },
+  {
+    "source": "Íl-gú-uš-ti",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "Iš-ru12-ut",
+    "target": "IV9",
+    "value": 1
+  },
+  {
+    "source": "Ti-ti-na",
+    "target": "IV9",
+    "value": 1
+  }
+]
+}

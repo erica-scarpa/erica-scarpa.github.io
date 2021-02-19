@@ -138,9 +138,6 @@ table th { background-color: #f0f0f0; border: 1px solid #dedede; }
 table td { border: 1px solid #e8e8e8; }
 @media screen and (max-width: 800px) { table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; -ms-overflow-style: -ms-autohiding-scrollbar; } }
 
-/** Site header */
-.site-header { border-top: 3px solid #424242; border-bottom: 1px solid #e8e8e8; background-color: #e8e8e8; min-height: 55.95px; line-height: 66px; position: relative; }
-
 .site-title { font-size: 1.625rem; font-weight: 100; letter-spacing: 0px; font-family: Helvetica; margin-bottom: 0; float: left; }
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
 .site-title, .site-title:visited { color: #424242; }
