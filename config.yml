@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://erica-scarpa.github.io/" 
+title: Erica Scarpa
 paginate: 20
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: erica_scarpa
 
 taxonomies:
     tag: tags
@@ -31,8 +31,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. I work on unemployment, economic slack, business cycles, macroeconomic policy, and metascience."
-    author: Pascal Michaillat
+    description: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
+    author: Erica Scarpa
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I work on unemployment, economic slack, business cycles, macroeconomic policy, and metascience."
+          subtitle: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
           imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
