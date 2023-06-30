@@ -33,7 +33,7 @@ menu:
 params:
     description: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
     author: Erica Scarpa
-    googleAnalyticsID: "G-97G4MZ4061"
+    googleAnalyticsID: ""
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -57,10 +57,10 @@ params:
           enabled: true
           title: Pascal Michaillat
           subtitle: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
-          imageUrl: "/picture.jpeg"
+          imageUrl: "/prof_pic.jpg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Pascal Michaillat
+          imageTitle: Erica Scarpa
           buttons:
             - name: Papers
               url: /papers/
@@ -72,19 +72,15 @@ params:
               url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
-          url: /cv.pdf
+          url: assets/cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
+          url: mailto:erica.scarpa@gmail.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=Yd4Me1UAAAAJ&hl=it
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/erica-scarpa
         # - name: Substack
         #   url: https://pmichaillat.substack.com
 
