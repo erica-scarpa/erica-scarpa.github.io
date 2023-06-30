@@ -1,4 +1,4 @@
-baseURL: "https://erica-scarpa.github.io" 
+baseURL: "https://erica-scarpa.github.io/" 
 title: Erica Scarpa
 paginate: 20
 theme: PaperMod
@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Erica Scarpa
           subtitle: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
-          imageUrl: "/prof_pic.jpg"
+          imageUrl: "prof_pic.jpg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Erica Scarpa
