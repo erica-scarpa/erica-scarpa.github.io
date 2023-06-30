@@ -55,7 +55,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
+          title: Erica Scarpa
           subtitle: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
           imageUrl: "/prof_pic.jpg"
           imageWidth: 170
@@ -68,8 +68,6 @@ params:
               url: /courses/
             - name: Design
               url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
           url: assets/cv.pdf
@@ -91,7 +89,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Erica Scarpa"
       icon: /favicon.ico
       iconHeight: 18
 
