@@ -26,9 +26,9 @@ menu:
         - name: Tags
           url: /tags/
           weight: 5     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
 
 params:
     description: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
@@ -70,17 +70,17 @@ params:
               url: /design/
     socialIcons:
         - name: CV
-          url: assets/cv.pdf
+          url: /cv.pdf
         - name: Email
           url: mailto:erica.scarpa@gmail.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=Yd4Me1UAAAAJ&hl=it
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+        - name: ORCID
+          url: 0000-0001-6250-304X
+        - name: Twitter
+          url: erica_scarpa
         - name: GitHub
           url: https://github.com/erica-scarpa
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
 
     assets:
         disableHLJS: true
