@@ -31,7 +31,7 @@ menu:
         #   weight: 4
 
 params:
-    description: "I am a postdoctoral fellow at the Unversity of Turin, Sept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
+    description: "I am a postdoctoral fellow at the Unversity of Turin, Dept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
     author: Erica Scarpa
     googleAnalyticsID: ""
     DateFormat: "January 2006"
