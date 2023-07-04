@@ -66,8 +66,8 @@ params:
               url: /papers/
             - name: Projects
               url: /projects/
-            - name: Design
-              url: /design/
+            - name: Presentations
+              url: /presentations/
     socialIcons:
         - name: CV
           url: /cv.pdf
