@@ -60,7 +60,7 @@ params:
           imageUrl: "prof_pic.png"
           imageWidth: 170
           imageHeight: 
-          imageTitle: Erica Scarpa
+          imageTitle:
           buttons:
             - name: Papers
               url: /papers/
