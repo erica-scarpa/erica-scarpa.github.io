@@ -17,15 +17,15 @@ menu:
         - name: Papers
           url: /papers/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: Projects
+          url: /projects/
           weight: 2
-        - name: Design
-          url: /design/
-          weight: 3
+        #- name: Design
+        #  url: /design/
+        #  weight: 3
         - name: Tags
           url: /tags/
-          weight: 5     
+          weight: 3     
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
         #   weight: 4
@@ -57,9 +57,9 @@ params:
           enabled: true
           title: Erica Scarpa
           subtitle: "I am a postdoctoral fellow at the Unversity of Turin, Dept. of Historical Studies. I work on social history, data mining and data visualization applied to cuneiform sources, historical geography, and digital humanities."
-          imageUrl: "prof_pic.jpg"
+          imageUrl: "prof_pic.png"
           imageWidth: 170
-          imageHeight: 170
+          imageHeight: 
           imageTitle: Erica Scarpa
           buttons:
             - name: Papers
