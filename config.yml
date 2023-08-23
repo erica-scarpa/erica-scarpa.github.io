@@ -77,8 +77,6 @@ params:
           url: https://scholar.google.com/citations?user=Yd4Me1UAAAAJ&hl=it
         - name: ORCID
           url: https://orcid.org/0000-0001-6250-304X
-        - name: Twitter
-          url: https://twitter.com/erica_scarpa
         - name: GitHub
           url: https://github.com/erica-scarpa
         - name: mastodon
