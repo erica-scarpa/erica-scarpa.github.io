@@ -31,7 +31,7 @@ menu:
         #   weight: 5
 
 params:
-    description: "I am an Assyriologist specializing in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
+    description: "I am an Assyriologist specialized in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
     author: Erica Scarpa
     googleAnalyticsID: ""
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Erica Scarpa
-          subtitle: "I am an Assyriologist specializing in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
+          subtitle: "I am an Assyriologist specialized in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
           imageUrl: "prof_pic.png"
           imageWidth: 170
           imageHeight: 170
