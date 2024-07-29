@@ -1,4 +1,4 @@
-baseURL: "https://erica-scarpa.github.io/" 
+baseURL: "https://erica-scarpa.github.io/"
 title: Erica Scarpa
 paginate: 20
 theme: PaperMod
@@ -7,104 +7,101 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: erica_scarpa
+  twitter: erica_scarpa
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Papers
-          url: /papers/
-          weight: 1
-        - name: Projects
-          url: /projects/
-          weight: 3
-        - name: Presentations
-          url: /presentations/
-          weight: 2
-        - name: Tags
-          url: /tags/
-          weight: 4     
-        - name: Blog
-          url: https://ericascarpa.wordpress.com
-          weight: 5
+  main:
+    - name: Papers
+      url: /papers/
+      weight: 1
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Presentations
+      url: /presentations/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 4
+    - name: Blog
+      url: https://ericascarpa.wordpress.com
+      weight: 5
 
 params:
-    description: "I am an Assyriologist specialized in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
-    author: Erica Scarpa
-    googleAnalyticsID: ""
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: true
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Erica Scarpa
-          subtitle: "I am an Assyriologist specialized in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
-          imageUrl: "prof_pic.png"
-          imageWidth: 170
-          imageHeight: 170
-          imageTitle:
-          buttons:
-            - name: Papers
-              url: /papers/
-            - name: Projects
-              url: /projects/
-            - name: Presentations
-              url: /presentations/
-    socialIcons:
-        - name: CV
-          url: /cv.pdf
-        - name: Email
-          url: mailto:erica.scarpa@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=Yd4Me1UAAAAJ&hl=it
-        - name: ORCID
-          url: https://orcid.org/0000-0001-6250-304X
-        - name: GitHub
-          url: https://github.com/erica-scarpa
-        - name: mastodon
-          url: https://mastodon.social/@erica_scarpa
+  description: "I am an Assyriologist specialized in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
+  author: Erica Scarpa
+  googleAnalyticsID: ""
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: true
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Erica Scarpa
+    subtitle: "I am an Assyriologist specialized in cuneiform sources, particularly those from the Royal Archives of Ebla (Syria). My research primarily centers on the application of digital methods to written sources, specifically encompassing techniques such as data mining, data visualization, and social network analysis. Additionally, I have a keen interest in social history and prosopographic studies, specifically in statistical and digital methods as essential tools for comprehending ancient societies and individuals. Moreover, I actively research interoperability standards and advocate for the integration of FAIR principles in research."
+    imageUrl: "prof_pic.png"
+    imageWidth: 170
+    imageHeight: 170
+    imageTitle:
+    buttons:
+      - name: Papers
+        url: /papers/
+      - name: Projects
+        url: /projects/
+      - name: Presentations
+        url: /presentations/
+  socialIcons:
+    - name: CV
+      url: /cv.pdf
+    - name: Email
+      url: mailto:erica.scarpa@cnr.it
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=Yd4Me1UAAAAJ&hl=it
+    - name: ORCID
+      url: https://orcid.org/0000-0001-6250-304X
+    - name: GitHub
+      url: https://github.com/erica-scarpa
 
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: true
-        hiddenInSingle: true
-    label:
-      text: "Erica Scarpa"
-      icon: /favicon.png
-      iconHeight: 18
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: true
+    hiddenInSingle: true
+  label:
+    text: "Erica Scarpa"
+    icon: /favicon.png
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: xcode
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
-
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: xcode
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
 # max number of characters:
 # * title: 70
 # * description: 120–155
