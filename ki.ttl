@@ -3,6 +3,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ngeo:   <http://geovocab.org/geometry#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @base <https://purl.org/ki/> .
@@ -14,47 +15,18 @@
     dct:description "Toponyms mentioned in the Ebla documents"@en ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 
-
-
-<https://purl.org/ki/TellMeskene> a skos:Concept ;
+<https://purl.org/ki/TellMeskene> a ngeo:Point, skos:Concept ;
     skos:prefLabel "Tell Meskene"@en ;
     skos:altLabel "Tell Meskeneh"@en ;
-    skos:definition "Seat of an en, DUlu was a city along the route to Egypt<sup>?</sup>, identified by some with Byblos. An Eblaite reign, often identified with Byblos. It exported linen cloths, obtained probably from Egypt. Royal daughter Tamur-dasin was married to the king of DUlu."@en ;
+    skos:definition "Seat of an en, DUlu was a city along the route to Egypt, identified by some with Byblos. An Eblaite reign, often identified with Byblos. It exported linen cloths, obtained probably from Egypt. Royal daughter Tamur-dasin was married to the king of DUlu."@en ;
     skos:related <https://purl.org/ki/DUlu> ;
     skos:note "Roccati, NABU 2023/54 (2023)"@en ;
-    geo:lat "35.9873101554"^^xsd:float ;
-    geo:long "38.1117988235"^^xsd:float ;
+    ngeo:asWKT "POINT (35.9873101554 38.1117988235)"^^geo:wktLiteral ;
     skos:inScheme <> .
 
-
-<https://purl.org/ki/DUlu> a skos:Concept ;
-    skos:prefLabel "DUlu"@en ;
-    skos:altLabel "du-lu-KI"@en ;
-    skos:hiddenLabel "gub-lu"@en, "Byblos"@en ;
-    skos:definition "Seat of an en, DUlu was a city along the route to Egypt<sup>?</sup>, identified by some with Byblos. An Eblaite reign, often identified with Byblos. It exported linen cloths, obtained probably from Egypt. Royal daughter Tamur-dasin was married to the king of DUlu."@en ;
-    skos:note "Roccati, NABU 2023/54 (2023)"@en ;
-    skos:inScheme <> .
-
-<https://purl.org/ki/Dugurasu> a skos:Concept ;
-    skos:prefLabel "Dugurasu"@en ;
-    skos:altLabel "du-gu₂-ra-su-KI"@en, "du-gu₂-ra-zu-KI"@en ;
-    skos:hiddenLabel "du-gu2-ra-su"@en, "du-gu2-ra-zu-"@en;
-    skos:definition "Egypt<sup>?</sup>; a location on the route to Egypt<sup>?</sup>, on the Nile delta<sup>?</sup>. Its status is unknown (maybe a commercial outpost in the Egyptian kingdom?). It imported from Ebla lapis lazuli, silver, and tin, while exporting linen, gold, hippo ivory, elephant ivory, copper, and bronze."@en ;
-    skos:note "Archi, 'Minima Eblaitica 27' (2022)"@en, "Biga, 'Relationships between Egypt and Syria' (2023)"@en ;
-    skos:inScheme <> .
-
-<https://purl.org/ki/Lumnan> a skos:Concept ;
-    skos:prefLabel "Lumnan"@en ;
-    skos:altLabel "lu-mu-na-an-KI"@en, "lu-mu-na-nu-KI"@en, "lum-na-an-KI"@en, "lum-na-nu-KI"@en ;
-    skos:hiddenLabel "lu-mu-na-an"@en, "lu-mu-na-nu"@en, "lum-na-an"@en, "lum-na-nu"@en ;
-    skos:definition "Seat of an en, some scholars place it on the Euphrates. Royal daughter Dati-Nindur married the king of Lumnan and gave birth to a son."@en ;
-    skos:note "Archi, 'Mr. Iram-malik' (2005), 17"@en ;
-    skos:inScheme <> .
-
-<https://purl.org/ki/Zaḫiran> a skos:Concept ;
-    skos:prefLabel "Zaḫiran"@en ;
-    skos:altLabel "za-ḫi-ra-an-KI"@en ;
-    skos:hiddenLabel "za-hi-ra-an-KI"@en, "zahiran"@en ;
-    skos:definition "Possibly located on the Euphrates. Zaḫiran is mentioned in the Enna-Dagan letter (ARET XIII = TM.75.G.2367), where it is noted that the king of Abarsal was defeated by Iblul-il of Mari in this location. Biga's reconstruction, based on AAM TM.75.G.2465 and parallel MATs, places Ebla's confrontation with Zaḫiran in year Ib.XVI. It's worth noting that most of the sources that mention this town remain unpublished."@en ;
-    skos:note "Biga, 'Geographical Scope' (2015), 186-187"@en, "Milano and Rova, 'Ceramic Provinces' (2000), 729n45"@en, "Biga, 'Not Tonight, Josephine!' (2020)"@en ;
+<https://purl.org/ki/TellHariri> a ngeo:Point, skos:Concept ;
+    skos:prefLabel "TellHariri"@en ;
+    skos:definition "Seat of an en, DUlu was a city along the route to Egypt, identified by some with Byblos. An Eblaite reign, often identified with Byblos. It exported linen cloths, obtained probably from Egypt. Royal daughter Tamur-dasin was married to the king of DUlu."@en ;
+    skos:related <https://purl.org/ki/DUlu> ;
+    ngeo:asWKT "POINT (34.5503390103, 40.8886203821)"^^geo:wktLiteral ;
     skos:inScheme <> .
