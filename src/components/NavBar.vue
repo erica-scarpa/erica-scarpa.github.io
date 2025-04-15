@@ -30,42 +30,33 @@ const { y: scroll } = useWindowScroll()
     <nav class="nav">
       <div class="spacer" />
       <div class="right" print:op0>
-        <RouterLink to="/posts" title="Blog">
+        <!-- <RouterLink to="/posts" title="Blog">
           <span class="lt-md:hidden">Blog</span>
           <div i-ri-article-line md:hidden />
-        </RouterLink>
+        </RouterLink> -->
         <RouterLink to="/projects" title="Projects">
           <span class="lt-md:hidden">Projects</span>
           <div i-ri-lightbulb-line class="md:hidden" />
         </RouterLink>
-        <RouterLink to="/talks" class="lt-md:hidden" title="Talks">
+        <!-- <RouterLink to="/talks" class="lt-md:hidden" title="Talks">
           Talks
-        </RouterLink>
-        <RouterLink to="/sponsors-list" title="Sponsors">
-          <span class="lt-md:hidden">Sponsors</span>
-          <div i-ri-heart-line class="md:hidden" />
-        </RouterLink>
-        <RouterLink to="/podcasts" class="lt-md:hidden" title="Podcasts">
-          <div i-ri-mic-line />
-        </RouterLink>
-        <RouterLink to="/photos" title="Photos">
-          <div i-ri-camera-3-line />
-        </RouterLink>
-        <RouterLink to="/demos" title="Demos">
-          <div i-ri-screenshot-line />
-        </RouterLink>
-        <!-- <RouterLink to="/chat" title="Let's Chat">
-          <div i-ri-chat-1-line />
         </RouterLink> -->
-        <a href="https://bsky.app/profile/antfu.me" target="_blank" title="Bluesky" class="lt-md:hidden">
-          <div i-ri-bluesky-line />
+
+        <!-- <RouterLink to="/demos" title="Demos">
+          <div i-ri-screenshot-line />
+        </RouterLink> -->
+        <a href="https://orcid.org/0000-0001-6250-304X" target="_blank" title="ORCID" class="lt-md:hidden">
+          <div i-simple-icons-orcid />
         </a>
-        <a href="https://github.com/antfu" target="_blank" title="GitHub" class="lt-md:hidden">
+        <a href="https://gitlab.com/erica-scarpa" target="_blank" title="GitLab" class="lt-md:hidden">
+          <div i-uil-gitlab />
+        </a>
+        <a href="https://github.com/erica-scarpa" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>
-        <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
+        <!-- <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
           <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
-        </a>
+        </a> -->
         <ToggleTheme />
       </div>
     </nav>

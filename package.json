@@ -5,6 +5,7 @@
   "scripts": {
     "build": "npm run static && cross-env NODE_ENV=production vite-ssg build && tsx ./scripts/copy-fonts.ts && tsx ./scripts/rss.ts && cp _dist_redirects dist/_redirects",
     "dev": "vite --port 3333 --open",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview",
     "static": "rimraf temp && degit antfu/static temp --force && tsx scripts/copy-sponsors",
     "redirects": "tsx scripts/redirects.ts",
@@ -62,6 +63,7 @@
     "fast-glob": "catalog:dev",
     "feed": "catalog:dev",
     "fs-extra": "catalog:dev",
+    "gh-pages": "catalog:gh-pages",
     "gray-matter": "catalog:build",
     "lint-staged": "catalog:dev",
     "markdown-it": "catalog:build",

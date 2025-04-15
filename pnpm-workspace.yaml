@@ -24,7 +24,8 @@ catalogs:
     vite-plugin-optimize-exclude: ^0.0.1
     vite-ssg: ^25.2.0
     vite-svg-loader: ^5.1.0
-
+  gh-pages:
+    gh-pages: ^5.0.0 # Replace version with what you actually use
   dev:
     '@antfu/eslint-config': ^4.10.0
     '@iconify/json': ^2.2.316
@@ -81,6 +82,8 @@ catalogs:
     '@types/node': ^22.13.10
     '@types/nprogress': ^0.2.3
     '@types/prompts': ^2.4.9
+  conflicts_gh-pages_h6_3_0:
+    gh-pages: ^6.3.0
 onlyBuiltDependencies:
   - esbuild
   - sharp

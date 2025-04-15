@@ -9,22 +9,33 @@ function slug(name: string) {
 <template>
   <div class="max-w-300 mx-auto">
     <p text-center mt--6 mb5 op50 text-lg italic>
-      Projects that I created or maintaining.
+      Projects that I created or I am eactively maintaining.
     </p>
     <div class="prose pb5 mx-auto mt10 text-center">
       <div flex="~ gap-2 justify-center">
         <a
-          href="https://github.com/antfu"
+          href="https://gitlab.com/erica-scarpa"
           target="_blank"
-          class="group btn-blue inline-block"
+          class="group btn-violet inline-block"
         >
           <div
             i-ph-github-logo-duotone
-            group-hover="i-ph-github-logo-fill text-blue"
+            group-hover="i-ph-github-logo-fill text-violet"
           />
           GitHub
         </a>
         <a
+          href="https://gitlab.com/erica-scarpa"
+          target="_blank"
+          class="group btn-orange inline-block"
+        >
+          <div
+            i-ph-gitlab-logo-duotone
+            group-hover="i-ph-gitlab-logo-fill text-orange"
+          />
+          GitLab
+        </a>
+        <!-- <a
           href="https://releases.antfu.me"
           target="_blank"
           class="group btn-amber inline-block"
@@ -45,7 +56,7 @@ function slug(name: string) {
             group-hover="i-ph-cow-duotone-fill text-lime"
           />
           Yak Map
-        </a>
+        </a> -->
       </div>
       <hr>
     </div>
@@ -94,9 +105,6 @@ function slug(name: string) {
       </div>
     </div>
     <div class="prose pb5 mx-auto mt10 text-center">
-      <div block mt-5>
-        <a href="https://antfu.me/stars-rank" target="_blank" op50>All projects sort by Stars</a>
-      </div>
       <hr>
       <SponsorButtons />
     </div>
