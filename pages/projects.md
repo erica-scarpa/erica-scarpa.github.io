@@ -8,7 +8,7 @@ projects:
   Current Focus:
     - name: 'H-SeTIS'
       link: 'https://h-setis.cnr.it/'
-      desc: 'Heritage - Semantic Tools and Interoperability Survey. A comprehensive hub for systematically surveying and describing various semantic artefacts and tools relevant to the Heritage domain. (Co-Editor)'
+      desc: 'Heritage - Semantic Tools and Interoperability Survey. A comprehensive hub for systematically surveying and describing various semantic artefacts and tools relevant to the Heritage domain. (Co-Editor) '
       icon: 'i-ph-cactus'
     - name: '‹H/SORT›'
       link: 'https://hsort-ec1af2.gitlab.io/'
